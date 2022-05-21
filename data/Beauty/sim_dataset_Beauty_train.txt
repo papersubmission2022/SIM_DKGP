@@ -1,0 +1,4123 @@
+1	Chemical Hair Dyes	Sports
+3	Chemical Hair Dyes	Hair Regrowth Treatments
+1	Chemical Hair Dyes	Nail Strengthening
+1	Chemical Hair Dyes	Eyeliner
+1	Chemical Hair Dyes	Foundation Primers
+2	Chemical Hair Dyes	Shampoos
+2	Chemical Hair Dyes	Acids & Peels
+1	Chemical Hair Dyes	Bath Mitts & Cloths
+1	Chemical Hair Dyes	Bars
+1	Chemical Hair Dyes	Combs
+1	Chemical Hair Dyes	Face
+3	Chemical Hair Dyes	Hair Dryers
+2	Chemical Hair Dyes	Nail Repair
+2	Chemical Hair Dyes	Cosmetic Bags
+2	Chemical Hair Dyes	Lipstick Primers
+1	Chemical Hair Dyes	Concealer & Base
+2	Chemical Hair Dyes	Nail Brushes
+2	Chemical Hair Dyes	Color Refreshers
+1	Chemical Hair Dyes	Eyelash Tools
+1	Moisturizing Gloves	Top & Base Coats
+2	Moisturizing Gloves	Toiletry Bags
+2	Moisturizing Gloves	Hair Rollers
+1	Moisturizing Gloves	Mirrors
+2	Moisturizing Gloves	Face Cleansing Brushes
+2	Moisturizing Gloves	Nail Treatments
+2	Moisturizing Gloves	Makeup Palettes
+1	Moisturizing Gloves	Polishes
+1	Moisturizing Gloves	Sets & Kits
+1	Moisturizing Gloves	Serums
+1	Moisturizing Gloves	Bars
+1	Moisturizing Gloves	Rollers & Pens
+2	Moisturizing Gloves	Brushes & Applicators
+2	Moisturizing Gloves	Lipstick Primers
+2	Moisturizing Gloves	Bath Pillows
+1	Moisturizing Gloves	After Sun
+1	Moisturizing Gloves	Washes
+2	Moisturizing Gloves	Hair Sprays
+2	Moisturizing Gloves	Chemical Hair Dyes
+1	Makeup	Dark Circle Treatments
+1	Makeup	Claws
+1	Makeup	Microdermabrasion
+2	Makeup	Moisturizing Gloves
+2	Makeup	Hair Rollers
+1	Makeup	Bath
+1	Makeup	Nails
+1	Makeup	Salicylic Acid
+1	Makeup	Hair Sticks
+1	Makeup	Foundation Primers
+4	Makeup	Makeup Sets
+1	Makeup	Shampoo Plus Conditioner
+1	Makeup	Nail Dryers
+1	Makeup	Powder
+1	Makeup	Body Butter
+1	Makeup	Creams, Gels & Lotions
+1	Makeup	Conditioners
+1	Makeup	Braid Maintenance
+1	Makeup	Alpha Beta
+1	Color Correctors	Brush Bags
+1	Color Correctors	Cosmetic Bags
+1	Color Correctors	Cotton Balls
+1	Color Correctors	Nail Dryers
+1	Color Correctors	Lotions
+1	Color Correctors	Puffs, Sponges & Wedges
+2	Color Correctors	Moisturizing Gloves
+2	Color Correctors	Hand Soaps
+1	Color Correctors	Sharpeners
+1	Color Correctors	Bath Brushes
+1	Color Correctors	Polishes
+1	Color Correctors	Retinol
+2	Color Correctors	Eyes
+1	Color Correctors	Cuticle Repair
+1	Color Correctors	Cologne
+1	Color Correctors	Brushes
+1	Color Correctors	Body Butter
+1	Color Correctors	Blemish Tools
+1	Color Correctors	Eau de Parfum
+1	Lip Glosses	Maternity
+1	Lip Glosses	Bath Trays
+1	Lip Glosses	Barrettes
+1	Lip Glosses	Foundation Primers
+3	Lip Glosses	Lip Stains
+1	Lip Glosses	Treatments & Masks
+1	Lip Glosses	Masks
+1	Lip Glosses	Acids & Peels
+1	Lip Glosses	Eyes
+1	Lip Glosses	Travel Cases & Holders
+1	Lip Glosses	Face
+1	Lip Glosses	Braid Maintenance
+1	Lip Glosses	Hair Dryers
+1	Lip Glosses	Foundation
+1	Lip Glosses	Wigs
+1	Lip Glosses	Exfoliators
+1	Lip Glosses	Loofahs, Sponges & Poufs
+1	Lip Glosses	Night Creams
+2	Lip Glosses	Lipstick Primers
+1	Brushes	Bath Pearls & Flakes
+1	Brushes	Nail Thickening Solution
+1	Brushes	Toners & Astringents
+2	Brushes	Hair & Scalp Treatments
+2	Brushes	Eyelash Tools
+1	Brushes	Growth Formula
+1	Brushes	Self-Tanners & Bronzers
+1	Brushes	Pore Cleansing Strips
+1	Brushes	Nail Art Equipment
+1	Brushes	Foundation Primers
+1	Brushes	Bronzing Powder
+2	Brushes	Polishes
+1	Brushes	Salicylic Acid
+2	Brushes	Hair Sticks
+1	Brushes	Lips
+1	Brushes	Microdermabrasion
+1	Brushes	Body
+2	Brushes	Hair Cutting Kits
+2	Brushes	Moisturizing Gloves
+1	Tanning Oils	Eyebrow Color
+5	Tanning Oils	Tanning Oils
+1	Tanning Oils	Curling Irons
+1	Tanning Oils	Exfoliators
+2	Tanning Oils	Minerals & Salts
+1	Tanning Oils	Highlights
+2	Tanning Oils	Scrubs & Body Treatments
+1	Tanning Oils	Growth Formula
+1	Tanning Oils	Hairpieces
+2	Tanning Oils	Nail Treatments
+1	Tanning Oils	Bath Mitts & Cloths
+1	Tanning Oils	Women's
+1	Tanning Oils	After Sun
+1	Tanning Oils	Caps, Foils & Wraps
+1	Tanning Oils	Face Cleansing Brushes
+2	Tanning Oils	Paraffin Baths
+1	Tanning Oils	Nail Art
+1	Tanning Oils	Pore Cleansing Strips
+1	Tanning Oils	Hair Rollers
+1	Pore Cleansing Strips	Shower Caps
+1	Pore Cleansing Strips	Concealer
+1	Pore Cleansing Strips	Skin Protection
+1	Pore Cleansing Strips	Headbands
+2	Pore Cleansing Strips	Lip Stains
+1	Pore Cleansing Strips	Fillers
+1	Pore Cleansing Strips	Bath Bombs
+1	Pore Cleansing Strips	Shower Mirrors
+1	Pore Cleansing Strips	Lip Glosses
+2	Pore Cleansing Strips	Body Sprays
+2	Pore Cleansing Strips	Day Creams
+1	Pore Cleansing Strips	Mousses & Foams
+1	Pore Cleansing Strips	Lip Liners
+1	Pore Cleansing Strips	Masks
+1	Pore Cleansing Strips	Glitter & Shimmer
+1	Pore Cleansing Strips	Fluids
+1	Pore Cleansing Strips	Shampoo Plus Conditioner
+1	Pore Cleansing Strips	Ridge Filler
+1	Pore Cleansing Strips	Clips
+1	Brushes, Combs & Needles	Makeup Palettes
+1	Brushes, Combs & Needles	Blemish Tools
+1	Brushes, Combs & Needles	Applicator Bottles
+2	Brushes, Combs & Needles	Shampoo & Conditioner Sets
+3	Brushes, Combs & Needles	Exfoliators & Scrubs
+1	Brushes, Combs & Needles	Sunscreens
+3	Brushes, Combs & Needles	Nail Files & Buffers
+1	Brushes, Combs & Needles	Pillows
+5	Brushes, Combs & Needles	Brushes, Combs & Needles
+1	Brushes, Combs & Needles	Day Creams
+1	Brushes, Combs & Needles	Bath Bombs
+2	Brushes, Combs & Needles	Foundation Primers
+2	Brushes, Combs & Needles	Skin Protection
+1	Brushes, Combs & Needles	Oils
+2	Brushes, Combs & Needles	Creams & Moisturizers
+2	Brushes, Combs & Needles	False Nails
+1	Brushes, Combs & Needles	Barrettes
+1	Brushes, Combs & Needles	Salicylic Acid
+1	Brushes, Combs & Needles	Mirrors
+2	Body Souffles & Mousse	Eye Masks
+1	Body Souffles & Mousse	Refillable Containers
+2	Body Souffles & Mousse	Eyebrow Color
+2	Body Souffles & Mousse	Cloths & Towelettes
+1	Body Souffles & Mousse	Pore Cleansing Strips
+1	Body Souffles & Mousse	Microdermabrasion
+2	Body Souffles & Mousse	Pomades & Waxes
+1	Body Souffles & Mousse	Texturizers
+1	Body Souffles & Mousse	Highlights
+2	Body Souffles & Mousse	Self-Tanners & Bronzers
+3	Body Souffles & Mousse	Body Mud
+1	Body Souffles & Mousse	Mascara
+1	Body Souffles & Mousse	Eyeliner
+1	Body Souffles & Mousse	Mirrors
+2	Body Souffles & Mousse	Sets & Kits
+2	Body Souffles & Mousse	Decorative Combs
+1	Body Souffles & Mousse	Nail Polish Remover
+1	Body Souffles & Mousse	Sharpeners
+3	Body Souffles & Mousse	Body Sprays
+2	Caps, Foils & Wraps	Toners & Astringents
+1	Caps, Foils & Wraps	Lotions
+1	Caps, Foils & Wraps	Hair Regrowth Treatments
+1	Caps, Foils & Wraps	Color Refreshers
+2	Caps, Foils & Wraps	Pomades & Waxes
+1	Caps, Foils & Wraps	Bronzing Powder
+2	Caps, Foils & Wraps	Body Butter
+1	Caps, Foils & Wraps	Shower Caps
+1	Caps, Foils & Wraps	Salicylic Acid
+2	Caps, Foils & Wraps	Creams & Moisturizers
+1	Caps, Foils & Wraps	Cuticle Pushers
+1	Caps, Foils & Wraps	Cotton Swabs
+2	Caps, Foils & Wraps	Hair Sprays
+1	Caps, Foils & Wraps	Hair Dryers
+1	Caps, Foils & Wraps	Makeup Mirrors
+1	Caps, Foils & Wraps	Lactic Acid
+1	Caps, Foils & Wraps	Flattening Irons
+1	Caps, Foils & Wraps	Color Correctors
+2	Caps, Foils & Wraps	Nail Art Equipment
+1	Bath	Chemical Hair Dyes
+1	Bath	Concealer
+1	Bath	Combs
+1	Bath	Combinations
+4	Bath	Bath Trays
+1	Bath	Maternity
+2	Bath	Cloths & Towelettes
+1	Bath	Braid Maintenance
+1	Bath	Body Mud
+1	Bath	Toe Separators
+1	Bath	Texturizers
+2	Bath	Shampoo Plus Conditioner
+1	Bath	Body Washes
+2	Bath	Hair & Scalp Treatments
+1	Bath	Oils
+1	Bath	Face Cleansing Brushes
+1	Bath	Sets
+1	Bath	Shampoos
+1	Bath	Bronzing Powder
+2	Hand Creams & Lotions	Acids & Peels
+1	Hand Creams & Lotions	Fillers
+1	Hand Creams & Lotions	Curl Enhancers
+1	Hand Creams & Lotions	Nail Polish Remover
+1	Hand Creams & Lotions	Serums
+3	Hand Creams & Lotions	Hair Care
+1	Hand Creams & Lotions	Concealer
+1	Hand Creams & Lotions	Alpha Beta
+1	Hand Creams & Lotions	Flattening Irons
+2	Hand Creams & Lotions	Minerals & Salts
+3	Hand Creams & Lotions	Toners & Astringents
+2	Hand Creams & Lotions	Pomades & Waxes
+2	Hand Creams & Lotions	Oils
+3	Hand Creams & Lotions	Bags & Cases
+2	Hand Creams & Lotions	Hair Color
+2	Hand Creams & Lotions	Face Cleansing Brushes
+3	Hand Creams & Lotions	Creams
+2	Hand Creams & Lotions	Bath
+1	Hand Creams & Lotions	Toe Separators
+1	Tote Bags	Nail Repair
+1	Tote Bags	Body Butter
+2	Tote Bags	Bags & Cases
+1	Tote Bags	Bath Pearls & Flakes
+1	Tote Bags	Hair Styling Serums
+1	Tote Bags	Styling Accessories
+2	Tote Bags	Body Sprays
+1	Tote Bags	Essential Oils
+1	Tote Bags	Nail Art
+1	Tote Bags	Makeup Palettes
+1	Tote Bags	Fragrance
+1	Tote Bags	Complexes
+1	Tote Bags	Bath
+2	Tote Bags	Moisturizing Gloves
+1	Tote Bags	Puffs, Sponges & Wedges
+1	Tote Bags	Concealer
+1	Tote Bags	Pomades & Waxes
+1	Tote Bags	Salicylic Acid
+1	Tote Bags	Face
+1	Hair Care	Crimping Irons
+3	Hair Care	Hand Creams & Lotions
+4	Hair Care	Hair & Scalp Treatments
+3	Hair Care	Hand Soaps
+1	Hair Care	Puffs, Sponges & Wedges
+1	Hair Care	Mousses & Foams
+1	Hair Care	Bronzers & Highlighters
+1	Hair Care	Curl Enhancers
+2	Hair Care	Wigs
+2	Hair Care	Bath Mitts & Cloths
+1	Hair Care	Soaps
+2	Hair Care	Nail Files & Buffers
+1	Hair Care	Nail Polish
+3	Hair Care	Hair Regrowth Treatments
+2	Hair Care	Styling Accessories
+2	Hair Care	Nail Tools
+1	Hair Care	Makeup Palettes
+1	Hair Care	Clips
+1	Hair Care	Eau de Toilette
+1	Salicylic Acid	Styling Accessories
+1	Salicylic Acid	Nail Art
+1	Salicylic Acid	Toe Separators
+1	Salicylic Acid	Hair Rollers
+1	Salicylic Acid	Bath Bombs
+1	Salicylic Acid	Styling Products
+1	Salicylic Acid	Body Mud
+1	Salicylic Acid	Lip Liners
+1	Salicylic Acid	Nail Tools
+1	Salicylic Acid	False Nails
+1	Salicylic Acid	Soaps
+1	Salicylic Acid	Hair Extensions
+1	Salicylic Acid	Tools & Accessories
+1	Salicylic Acid	Hot-Air Brushes
+1	Salicylic Acid	Diffusers
+1	Salicylic Acid	Complexes
+1	Salicylic Acid	Nail Polish Remover
+1	Salicylic Acid	Bath Pillows
+1	Salicylic Acid	Dark Circle Treatments
+3	Lip Stains	Hair Color
+1	Lip Stains	Polishes
+1	Lip Stains	Clips
+1	Lip Stains	Ponytail Holders
+2	Lip Stains	Hair Sticks
+1	Lip Stains	Nail Art Equipment
+1	Lip Stains	Hennas
+2	Lip Stains	Brushes
+1	Lip Stains	Shower Caps
+1	Lip Stains	Gels
+1	Lip Stains	Fragrance
+1	Lip Stains	Toiletry Bags
+2	Lip Stains	Body Sprays
+2	Lip Stains	Makeup Palettes
+2	Lip Stains	Nail Dryers
+1	Lip Stains	Sets & Kits
+1	Lip Stains	Cleansers
+1	Lip Stains	Braiders
+3	Lip Stains	Hair Regrowth Treatments
+1	Curlers	Sets & Kits
+1	Curlers	Combinations
+1	Curlers	Hair Sticks
+1	Curlers	Sunscreens
+1	Curlers	Nail Art Equipment
+2	Curlers	Lipstick Primers
+1	Curlers	Nails
+1	Curlers	Braid Maintenance
+1	Curlers	Blush
+1	Curlers	Temporary Tattoos
+1	Curlers	Women's
+1	Curlers	Nail Thickening Solution
+1	Curlers	Body Souffles & Mousse
+1	Curlers	Cotton Swabs
+1	Curlers	Lactic Acid
+1	Curlers	Travel Cases & Holders
+1	Curlers	Maternity
+1	Curlers	Face
+1	Curlers	Bronzing Powder
+1	Foundation	Bath Pearls & Flakes
+1	Foundation	Highlights
+1	Foundation	Ponytail Holders
+1	Foundation	Scissors
+1	Foundation	Exfoliators
+1	Foundation	Nail Brushes
+1	Foundation	Curl Enhancers
+1	Foundation	Brushes & Applicators
+1	Foundation	Braid Maintenance
+1	Foundation	Makeup
+1	Foundation	Face Cleansing Brushes
+1	Foundation	Salicylic Acid
+1	Foundation	Cuticle Removers
+1	Foundation	Mirrors
+1	Foundation	Sets
+1	Foundation	Lipstick Primers
+1	Foundation	Self-Tanners & Bronzers
+1	Foundation	Paraffin Baths
+1	Foundation	Nail Whitening
+1	Ridge Filler	Cuticle Removers
+1	Ridge Filler	Moisturizers
+1	Ridge Filler	Bars
+1	Ridge Filler	Gels
+1	Ridge Filler	Lip Stains
+1	Ridge Filler	Chemical Hair Dyes
+1	Ridge Filler	Bronzers & Highlighters
+1	Ridge Filler	Ponytail Holders
+1	Ridge Filler	Bath Mitts & Cloths
+1	Ridge Filler	Fake Eyelashes & Adhesives
+1	Ridge Filler	Cloths & Towelettes
+1	Ridge Filler	Brushes
+1	Ridge Filler	Sun
+1	Ridge Filler	Bath Pearls & Flakes
+1	Ridge Filler	Eyes
+1	Ridge Filler	Body Mud
+1	Ridge Filler	Creams
+1	Ridge Filler	Decorative Combs
+1	Ridge Filler	Minerals & Salts
+1	After Sun	Foundation
+2	After Sun	Bags & Cases
+1	After Sun	Soaps
+2	After Sun	Sets & Kits
+2	After Sun	Bubble Bath
+1	After Sun	Makeup Palettes
+2	After Sun	Train Cases
+1	After Sun	Wigs
+1	After Sun	Brushes, Combs & Needles
+2	After Sun	Liner & Shadow Combinations
+1	After Sun	Hair Drying Towels
+2	After Sun	Night Creams
+1	After Sun	Eau de Toilette
+1	After Sun	Mascara
+1	After Sun	Tinted Moisturizers
+1	After Sun	Body Sprays
+1	After Sun	Complexes
+1	After Sun	Pomades & Waxes
+1	After Sun	Self Tanners
+1	Decorative Combs	Nail Treatments
+1	Decorative Combs	Powder
+1	Decorative Combs	Face
+1	Decorative Combs	Eau de Toilette
+1	Decorative Combs	Body
+1	Decorative Combs	Toiletry Bags
+1	Decorative Combs	Bath & Body
+1	Decorative Combs	Hot-Air Brushes
+1	Decorative Combs	Clips
+1	Decorative Combs	Microdermabrasion
+2	Decorative Combs	Nail Art
+1	Decorative Combs	Blemish Tools
+2	Decorative Combs	Makeup Mirrors
+1	Decorative Combs	Barrettes
+1	Decorative Combs	Foot Rasps
+1	Decorative Combs	Growth Formula
+1	Decorative Combs	Body Butter
+1	Decorative Combs	Self-Tanners & Bronzers
+1	Decorative Combs	Lipstick Primers
+1	Moisturizers	Bath Pillows
+1	Moisturizers	Crimping Irons
+3	Moisturizers	Creams & Moisturizers
+1	Moisturizers	Toners & Astringents
+1	Moisturizers	Activators
+1	Moisturizers	Foundation Primers
+1	Moisturizers	Eau de Parfum
+1	Moisturizers	Chemical Hair Dyes
+1	Moisturizers	Travel Cases & Holders
+1	Moisturizers	Lip Liners
+1	Moisturizers	Glycolic Acid
+1	Moisturizers	Lip Glosses
+3	Moisturizers	Cleansers
+1	Moisturizers	Tools & Accessories
+1	Moisturizers	Mousses & Foams
+1	Moisturizers	After Sun
+1	Moisturizers	Fake Eyelashes & Adhesives
+1	Moisturizers	Brushes & Applicators
+3	Moisturizers	Sunscreens
+1	Lactic Acid	Pore Cleansing Strips
+1	Lactic Acid	Clippers & Trimmers
+1	Lactic Acid	Scrubs
+1	Lactic Acid	Nail Art Equipment
+1	Lactic Acid	Styling Products
+1	Lactic Acid	Eau de Toilette
+1	Lactic Acid	Essential Oils
+1	Lactic Acid	Hair Care
+1	Lactic Acid	Toiletry Bags
+1	Lactic Acid	Crimping Irons
+1	Lactic Acid	Nail Polish Remover
+1	Lactic Acid	Self-Tanners & Bronzers
+1	Lactic Acid	Curl Enhancers
+1	Lactic Acid	Hairpieces
+1	Lactic Acid	Makeup Mirrors
+1	Lactic Acid	Makeup Palettes
+1	Lactic Acid	Bath Mitts & Cloths
+1	Lactic Acid	Nail Brushes
+1	Lactic Acid	Hair Pins
+1	Fillers	Sets & Kits
+1	Fillers	Polishes
+1	Fillers	Bath Pillows
+1	Fillers	Self-Tanners & Bronzers
+1	Fillers	Concealer
+1	Fillers	Creams
+1	Fillers	Foundation
+1	Fillers	Body Souffles & Mousse
+1	Fillers	Cuticle Creams & Oils
+1	Fillers	Hairpieces
+1	Fillers	Shower Mirrors
+2	Fillers	Lipstick Primers
+1	Fillers	Shampoo Plus Conditioner
+1	Fillers	Microdermabrasion
+1	Fillers	Clippers & Trimmers
+1	Fillers	Salicylic Acid
+1	Fillers	Blotting Paper
+1	Fillers	Hand Creams & Lotions
+1	Fillers	Oils & Serums
+2	Body Butter	Concealer & Base
+2	Body Butter	Bath Pearls & Flakes
+1	Body Butter	Serums
+2	Body Butter	Hair Styling Serums
+3	Body Butter	Body
+2	Body Butter	Puffs, Sponges & Wedges
+1	Body Butter	Loofahs, Sponges & Poufs
+1	Body Butter	Eyelash Tools
+2	Body Butter	Oils & Serums
+2	Body Butter	Makeup Sets
+1	Body Butter	Lip Plumpers
+1	Body Butter	Concealers & Neutralizers
+2	Body Butter	Hand Soaps
+2	Body Butter	Minerals & Salts
+2	Body Butter	Lip Stains
+2	Body Butter	Hair Dryers
+1	Body Butter	Refillable Containers
+1	Body Butter	Fragrance
+1	Body Butter	Sunscreens
+1	Pillows	Nail Polish
+1	Pillows	Nail Art Equipment
+2	Pillows	Shampoo Plus Conditioner
+1	Pillows	Conditioners
+1	Pillows	Eyebrow Color
+1	Pillows	Cuticle Repair
+1	Pillows	Cuticle Pushers
+1	Pillows	Eye Masks
+2	Pillows	Creams & Moisturizers
+1	Pillows	Lip Liners
+1	Pillows	Maternity
+1	Pillows	Diffusers
+1	Pillows	Nail Art
+2	Pillows	Bath Mitts & Cloths
+1	Pillows	Retinol
+1	Pillows	Irons
+1	Pillows	Body Souffles & Mousse
+2	Pillows	Lotions
+1	Pillows	Alpha Beta
+2	Bubble Bath	Treatments & Masks
+1	Bubble Bath	Clips
+1	Bubble Bath	Moisturizers
+1	Bubble Bath	Blemish Tools
+1	Bubble Bath	Combinations
+2	Bubble Bath	Hair & Scalp Treatments
+1	Bubble Bath	Makeup Sets
+1	Bubble Bath	Brushes & Applicators
+1	Bubble Bath	Lip Liners
+1	Bubble Bath	Brushes
+1	Bubble Bath	Hennas
+2	Bubble Bath	Hair Drying Towels
+1	Bubble Bath	Hot-Air Brushes
+2	Bubble Bath	Spa Slippers
+1	Bubble Bath	Fake Eyelashes & Adhesives
+1	Bubble Bath	Sunscreens
+1	Bubble Bath	Cotton Balls
+1	Bubble Bath	Lotions
+1	Bubble Bath	Cotton Swabs
+5	False Nails	False Nails
+1	False Nails	Soaps
+1	False Nails	Cologne
+1	False Nails	Self Tanners
+1	False Nails	Exfoliators
+2	False Nails	Hair Extensions
+2	False Nails	Dark Circle Treatments
+1	False Nails	Hot-Air Brushes
+1	False Nails	Bath Pearls & Flakes
+1	False Nails	Skin Care
+1	False Nails	Bath & Body
+2	False Nails	Liner & Shadow Combinations
+2	False Nails	Nail Brushes
+1	False Nails	Conditioners
+1	False Nails	Body Butter
+1	False Nails	Braid Maintenance
+1	False Nails	Women's
+1	False Nails	Moisturizers
+1	False Nails	Pillows
+2	Shower Mirrors	Hair Rollers
+3	Shower Mirrors	Bubble Bath
+1	Shower Mirrors	Combinations
+1	Shower Mirrors	Crimping Irons
+2	Shower Mirrors	Bath Pearls & Flakes
+1	Shower Mirrors	Sun
+1	Shower Mirrors	Braid Maintenance
+1	Shower Mirrors	Ridge Filler
+1	Shower Mirrors	Nail Polish
+1	Shower Mirrors	Irons
+2	Shower Mirrors	Eye Shadow
+2	Shower Mirrors	Moisturizing Gloves
+2	Shower Mirrors	Night Creams
+1	Shower Mirrors	Curling Irons
+2	Shower Mirrors	Hair Cutting Kits
+1	Shower Mirrors	Self-Tanners & Bronzers
+1	Shower Mirrors	Cuticle Repair
+1	Shower Mirrors	Cleansers
+2	Shower Mirrors	Nail Repair
+1	Serums	Loofahs, Sponges & Poufs
+1	Serums	Sets
+1	Serums	Top & Base Coats
+1	Serums	Hair Extensions
+1	Serums	Home Permanent Kits
+1	Serums	False Nails
+1	Serums	Chemical Hair Dyes
+1	Serums	Hair Dryers
+1	Serums	Self-Tanners & Bronzers
+1	Serums	Treatments & Masks
+1	Serums	Hennas
+1	Serums	Wigs
+1	Serums	Exfoliators & Scrubs
+1	Serums	Fake Eyelashes & Adhesives
+1	Serums	Skin Protection
+2	Serums	Creams
+1	Serums	Nails
+1	Serums	Nail Brushes
+1	Serums	Shampoo & Conditioner Sets
+1	Self Tanners	Body Washes
+1	Self Tanners	Shower Caps
+1	Self Tanners	Rollers & Pens
+1	Self Tanners	Exfoliators
+1	Self Tanners	After Sun
+1	Self Tanners	Hair Color Removers
+1	Self Tanners	Hair & Scalp Treatments
+1	Self Tanners	Skin Protection
+1	Self Tanners	Hair Cutting Kits
+1	Self Tanners	Nail Tools
+1	Self Tanners	Hand Soaps
+1	Self Tanners	Face Cleansing Brushes
+1	Self Tanners	Hair Dryers
+1	Self Tanners	Train Cases
+1	Self Tanners	Foundation
+1	Self Tanners	Scissors
+1	Self Tanners	Nail Polish
+1	Self Tanners	Shower Mirrors
+1	Self Tanners	Treatments & Masks
+2	Tools & Accessories	Hair Color Removers
+2	Tools & Accessories	Mousses & Foams
+3	Tools & Accessories	Hand Creams & Lotions
+1	Tools & Accessories	Moisturizers
+1	Tools & Accessories	Curling Irons
+1	Tools & Accessories	Growth Formula
+1	Tools & Accessories	Combinations
+1	Tools & Accessories	Blotting Paper
+1	Tools & Accessories	Polishes
+1	Tools & Accessories	Combs
+1	Tools & Accessories	Nail Whitening
+1	Tools & Accessories	Lip Glosses
+1	Tools & Accessories	Alpha Beta
+3	Tools & Accessories	Concealers & Neutralizers
+1	Tools & Accessories	Face Cleansing Brushes
+2	Tools & Accessories	Body Paint
+1	Tools & Accessories	Train Cases
+1	Tools & Accessories	After Sun
+3	Tools & Accessories	Pomades & Waxes
+3	Nail Repair	Nail Polish
+2	Nail Repair	Body Scrubs
+1	Nail Repair	Blush
+2	Nail Repair	Train Cases
+1	Nail Repair	After Sun
+1	Nail Repair	Styling Products
+1	Nail Repair	Oils
+3	Nail Repair	Nail Polish Remover
+1	Nail Repair	Lipstick Primers
+1	Nail Repair	Eyeliner
+2	Nail Repair	Top & Base Coats
+1	Nail Repair	Clippers & Trimmers
+2	Nail Repair	Foot Rasps
+3	Nail Repair	Cuticle Repair
+1	Nail Repair	Cotton Balls
+1	Nail Repair	Styling Accessories
+1	Nail Repair	Toners & Astringents
+1	Nail Repair	Complexes
+1	Nail Repair	Toiletry Bags
+1	Applicator Bottles	Soaps
+1	Applicator Bottles	Fillers
+1	Applicator Bottles	Barrettes
+2	Applicator Bottles	Powder
+1	Applicator Bottles	Hand Creams & Lotions
+1	Applicator Bottles	Dark Circle Treatments
+1	Applicator Bottles	Claws
+1	Applicator Bottles	Sets
+1	Applicator Bottles	Styling Tools
+2	Applicator Bottles	Scissors
+1	Applicator Bottles	Blush
+3	Applicator Bottles	Refillable Containers
+1	Applicator Bottles	Face Cleansing Brushes
+1	Applicator Bottles	Makeup Mirrors
+1	Applicator Bottles	Hair Rollers
+1	Applicator Bottles	Alpha Beta
+1	Applicator Bottles	Body Mud
+1	Applicator Bottles	Skin Care
+1	Applicator Bottles	Hair Pins
+2	Brushes & Applicators	Caps, Foils & Wraps
+1	Brushes & Applicators	Clips
+1	Brushes & Applicators	Highlights
+1	Brushes & Applicators	Complexes
+1	Brushes & Applicators	Makeup Mirrors
+3	Brushes & Applicators	Loofahs, Sponges & Poufs
+2	Brushes & Applicators	Body Paint
+1	Brushes & Applicators	Braid Maintenance
+1	Brushes & Applicators	Fluids
+2	Brushes & Applicators	Styling Products
+1	Brushes & Applicators	Exfoliators
+1	Brushes & Applicators	Toiletry Bags
+3	Brushes & Applicators	Creams, Gels & Lotions
+1	Brushes & Applicators	Powder
+1	Brushes & Applicators	Lip Glosses
+3	Brushes & Applicators	Mousses & Foams
+1	Brushes & Applicators	Foundation Primers
+1	Brushes & Applicators	Headbands
+1	Brushes & Applicators	Braiders
+1	Nail Polish	Bath & Body
+1	Nail Polish	Essential Oils
+1	Nail Polish	Lactic Acid
+1	Nail Polish	Rollers & Pens
+1	Nail Polish	Activators
+1	Nail Polish	Body Butter
+1	Nail Polish	Dark Circle Treatments
+1	Nail Polish	Retinol
+1	Nail Polish	Eye Shadow
+1	Nail Polish	Sets
+1	Nail Polish	Makeup Mirrors
+1	Nail Polish	Sunscreens
+1	Nail Polish	Self Tanners
+1	Nail Polish	Body Scrubs
+1	Nail Polish	Shower Caps
+2	Nail Polish	Hair Cutting Kits
+1	Nail Polish	Bath
+1	Nail Polish	Braid Maintenance
+2	Nail Polish	Hair Pins
+1	Blotting Paper	Body Washes
+1	Blotting Paper	Moisturizing Gloves
+1	Blotting Paper	Bars
+1	Blotting Paper	Cotton Swabs
+1	Blotting Paper	Sets
+1	Blotting Paper	Minerals & Salts
+1	Blotting Paper	Creams & Moisturizers
+1	Blotting Paper	Scrubs & Body Treatments
+1	Blotting Paper	Body Sprays
+2	Blotting Paper	Chemical Hair Dyes
+5	Blotting Paper	Blotting Paper
+1	Blotting Paper	Brushes & Applicators
+1	Blotting Paper	Eyes
+1	Blotting Paper	Sun
+2	Blotting Paper	Hair Drying Towels
+1	Blotting Paper	Home Permanent Kits
+1	Blotting Paper	Lip Stains
+1	Blotting Paper	Nail Dryers
+2	Blotting Paper	Hair Color Removers
+1	Hair Styling Serums	Texturizers
+2	Hair Styling Serums	Spa Slippers
+1	Hair Styling Serums	Applicator Bottles
+2	Hair Styling Serums	Makeup Palettes
+3	Hair Styling Serums	Hair & Scalp Treatments
+3	Hair Styling Serums	Tinted Moisturizers
+1	Hair Styling Serums	Bath Mitts & Cloths
+1	Hair Styling Serums	Top & Base Coats
+1	Hair Styling Serums	Home Permanent Kits
+2	Hair Styling Serums	Moisturizing Gloves
+1	Hair Styling Serums	Nail Polish
+2	Hair Styling Serums	False Nails
+1	Hair Styling Serums	Paraffin Baths
+3	Hair Styling Serums	Wigs
+1	Hair Styling Serums	Liner & Shadow Combinations
+1	Hair Styling Serums	Blotting Paper
+1	Hair Styling Serums	Temporary Tattoos
+2	Hair Styling Serums	Color Correctors
+1	Hair Styling Serums	Powder
+2	Makeup Mirrors	Tinted Moisturizers
+1	Makeup Mirrors	Bath Pearls & Flakes
+2	Makeup Mirrors	Hair Drying Towels
+1	Makeup Mirrors	Salicylic Acid
+1	Makeup Mirrors	Self Tanners
+1	Makeup Mirrors	Foundation
+2	Makeup Mirrors	Hand Creams & Lotions
+2	Makeup Mirrors	Brushes
+1	Makeup Mirrors	Activators
+1	Makeup Mirrors	Highlights
+3	Makeup Mirrors	Shower Mirrors
+1	Makeup Mirrors	Retinol
+2	Makeup Mirrors	Moisturizing Gloves
+1	Makeup Mirrors	Foot Rasps
+2	Makeup Mirrors	Scrubs & Body Treatments
+1	Makeup Mirrors	Hairpieces
+1	Makeup Mirrors	Sunscreens
+1	Makeup Mirrors	Cloths & Towelettes
+1	Makeup Mirrors	Blemish Tools
+1	Rollers & Pens	Eau de Parfum
+1	Rollers & Pens	Nail Thickening Solution
+1	Rollers & Pens	Diffusers
+1	Rollers & Pens	Irons
+1	Rollers & Pens	Microdermabrasion
+3	Rollers & Pens	Cloths & Towelettes
+1	Rollers & Pens	Curl Enhancers
+1	Rollers & Pens	Wigs
+2	Rollers & Pens	Cotton Balls
+1	Rollers & Pens	Alpha Beta
+3	Rollers & Pens	Hand Creams & Lotions
+2	Rollers & Pens	Top & Base Coats
+1	Rollers & Pens	Combinations
+3	Rollers & Pens	Puffs, Sponges & Wedges
+1	Rollers & Pens	Hair Sprays
+2	Rollers & Pens	Travel Cases & Holders
+1	Rollers & Pens	Soaps
+3	Rollers & Pens	Nail Files & Buffers
+1	Rollers & Pens	Braiders
+1	Train Cases	Toe Separators
+1	Train Cases	Makeup Mirrors
+1	Train Cases	Nail Brushes
+1	Train Cases	Ponytail Holders
+1	Train Cases	Powder
+2	Train Cases	After Sun
+1	Train Cases	Shower Caps
+1	Train Cases	Wigs
+1	Train Cases	Clips
+1	Train Cases	Body Sprays
+1	Train Cases	Body Washes
+1	Train Cases	Blemish Tools
+1	Train Cases	Foundation
+1	Train Cases	Bath Trays
+1	Train Cases	Sharpeners
+1	Train Cases	Pillows
+1	Train Cases	Makeup Palettes
+1	Train Cases	Lip Plumpers
+1	Train Cases	Self-Tanners & Bronzers
+1	Eyelash Tools	Lip Glosses
+1	Eyelash Tools	Scrubs
+2	Eyelash Tools	Brushes & Applicators
+1	Eyelash Tools	Exfoliators & Scrubs
+1	Eyelash Tools	Pillows
+1	Eyelash Tools	Body Paint
+2	Eyelash Tools	Brushes
+1	Eyelash Tools	Decorative Combs
+1	Eyelash Tools	Paraffin Baths
+1	Eyelash Tools	Skin Protection
+1	Eyelash Tools	Face Cleansing Brushes
+1	Eyelash Tools	Curlers
+1	Eyelash Tools	Retinol
+1	Eyelash Tools	Hair Rollers
+1	Eyelash Tools	Clips
+1	Eyelash Tools	Tinted Moisturizers
+1	Eyelash Tools	Braiders
+1	Eyelash Tools	Microdermabrasion
+3	Eyelash Tools	Styling Tools
+1	Temporary Tattoos	Oils
+1	Temporary Tattoos	Flattening Irons
+1	Temporary Tattoos	Creams
+1	Temporary Tattoos	Styling Accessories
+2	Temporary Tattoos	Nail Treatments
+1	Temporary Tattoos	Nail Brushes
+1	Temporary Tattoos	Nail Whitening
+1	Temporary Tattoos	Clips
+1	Temporary Tattoos	Brushes & Applicators
+1	Temporary Tattoos	Soaps
+1	Temporary Tattoos	Eye Shadow
+1	Temporary Tattoos	Cuticle Removers
+1	Temporary Tattoos	Powder
+2	Temporary Tattoos	Chemical Hair Dyes
+1	Temporary Tattoos	Curling Irons
+2	Temporary Tattoos	Skin Care
+1	Temporary Tattoos	Essential Oils
+2	Temporary Tattoos	Cosmetic Bags
+1	Temporary Tattoos	Puffiness Treatments
+2	Masks	Tote Bags
+1	Masks	Nail Brushes
+1	Masks	Train Cases
+1	Masks	Creams, Gels & Lotions
+1	Masks	Bubble Bath
+1	Masks	Body Butter
+1	Masks	Scissors
+1	Masks	Bronzers & Highlighters
+1	Masks	Styling Tools
+1	Masks	Bronzing Powder
+1	Masks	Sun
+1	Masks	Loofahs, Sponges & Poufs
+4	Masks	Eye Masks
+1	Masks	Styling Accessories
+2	Masks	Hand Soaps
+3	Masks	Wigs
+1	Masks	Combs
+1	Masks	Microdermabrasion
+2	Masks	Chemical Hair Dyes
+1	Nail Polish Remover	Clippers & Trimmers
+1	Nail Polish Remover	Color Correctors
+1	Nail Polish Remover	Lip Plumpers
+1	Nail Polish Remover	Curling Irons
+1	Nail Polish Remover	Scrubs & Body Treatments
+1	Nail Polish Remover	Applicator Bottles
+2	Nail Polish Remover	Eyeliner
+1	Nail Polish Remover	Wigs
+1	Nail Polish Remover	Lips
+1	Nail Polish Remover	Ponytail Holders
+1	Nail Polish Remover	Tools & Accessories
+1	Nail Polish Remover	Irons
+2	Nail Polish Remover	Nail Strengthening
+1	Nail Polish Remover	Masks
+1	Nail Polish Remover	Tote Bags
+1	Nail Polish Remover	Cotton Balls
+2	Nail Polish Remover	Fake Eyelashes & Adhesives
+1	Nail Polish Remover	Skin Protection
+2	Nail Polish Remover	Hair Color Removers
+1	Foot Rasps	Bronzing Powder
+1	Foot Rasps	Loofahs, Sponges & Poufs
+1	Foot Rasps	Creams & Moisturizers
+1	Foot Rasps	Hand Creams & Lotions
+1	Foot Rasps	Pomades & Waxes
+5	Foot Rasps	Foot Rasps
+1	Foot Rasps	Shampoo Plus Conditioner
+2	Foot Rasps	Body Scrubs
+1	Foot Rasps	Body Butter
+1	Foot Rasps	Combinations
+1	Foot Rasps	Sharpeners
+1	Foot Rasps	Pillows
+1	Foot Rasps	Bath Mitts & Cloths
+1	Foot Rasps	Face Cleansing Brushes
+1	Foot Rasps	Treatments & Masks
+1	Foot Rasps	Scissors
+2	Foot Rasps	Body Washes
+1	Foot Rasps	Oils & Serums
+1	Foot Rasps	Puffiness Treatments
+1	Lipstick Primers	Hand Creams & Lotions
+1	Lipstick Primers	Eye Masks
+2	Lipstick Primers	Nails
+1	Lipstick Primers	Body Scrubs
+1	Lipstick Primers	Fluids
+1	Lipstick Primers	Washes
+1	Lipstick Primers	Body Souffles & Mousse
+2	Lipstick Primers	Cuticle Removers
+2	Lipstick Primers	Nail Brushes
+1	Lipstick Primers	Microdermabrasion
+1	Lipstick Primers	Bath Mitts & Cloths
+2	Lipstick Primers	Hair Sprays
+1	Lipstick Primers	Home Permanent Kits
+2	Lipstick Primers	Pillows
+2	Lipstick Primers	Tinted Moisturizers
+1	Lipstick Primers	Nail Files & Buffers
+1	Lipstick Primers	Loofahs, Sponges & Poufs
+1	Lipstick Primers	Concealer & Base
+1	Lipstick Primers	After Sun
+2	Hair Sprays	Gels
+1	Hair Sprays	Curl Enhancers
+2	Hair Sprays	Fragrance
+2	Hair Sprays	Styling Accessories
+2	Hair Sprays	Puffiness Treatments
+2	Hair Sprays	Makeup
+3	Hair Sprays	Eyes
+2	Hair Sprays	Nail Tools
+1	Hair Sprays	Cologne
+2	Hair Sprays	Scissors
+1	Hair Sprays	Pomades & Waxes
+2	Hair Sprays	Bath Mitts & Cloths
+2	Hair Sprays	Makeup Mirrors
+3	Hair Sprays	Hair Drying Towels
+3	Hair Sprays	Body Sprays
+1	Hair Sprays	Self Tanners
+2	Hair Sprays	Washes
+1	Hair Sprays	Foundation
+2	Hair Sprays	Bath Pillows
+1	Braid Maintenance	Cuticle Removers
+1	Braid Maintenance	Cloths & Towelettes
+1	Braid Maintenance	Shower Mirrors
+1	Braid Maintenance	Face
+1	Braid Maintenance	Cotton Swabs
+1	Braid Maintenance	Hair Color Removers
+1	Braid Maintenance	Night Creams
+1	Braid Maintenance	Eau de Toilette
+1	Braid Maintenance	Nails
+1	Braid Maintenance	Nail Polish
+1	Braid Maintenance	Pillows
+2	Braid Maintenance	Acids & Peels
+1	Braid Maintenance	Bronzing Powder
+1	Braid Maintenance	Gels
+1	Braid Maintenance	Bath Pearls & Flakes
+1	Braid Maintenance	Nail Dryers
+1	Braid Maintenance	Bath Pillows
+1	Braid Maintenance	Pore Cleansing Strips
+1	Braid Maintenance	Braiders
+1	Cotton Swabs	Body Souffles & Mousse
+1	Cotton Swabs	Growth Formula
+1	Cotton Swabs	Toe Separators
+1	Cotton Swabs	Diffusers
+1	Cotton Swabs	Face Cleansing Brushes
+2	Cotton Swabs	Hair Extensions
+1	Cotton Swabs	Bath Pillows
+1	Cotton Swabs	Body
+1	Cotton Swabs	Sports
+1	Cotton Swabs	Paraffin Baths
+1	Cotton Swabs	Curling Irons
+1	Cotton Swabs	Minerals & Salts
+2	Cotton Swabs	Hair Cutting Kits
+1	Cotton Swabs	Sharpeners
+1	Cotton Swabs	Brushes, Combs & Needles
+2	Cotton Swabs	Nail Brushes
+1	Cotton Swabs	Complexes
+1	Cotton Swabs	Nail Thickening Solution
+1	Cotton Swabs	Flattening Irons
+3	Cuticle Creams & Oils	Body Souffles & Mousse
+2	Cuticle Creams & Oils	Braid Maintenance
+2	Cuticle Creams & Oils	Nails
+1	Cuticle Creams & Oils	Lip Glosses
+1	Cuticle Creams & Oils	Irons
+2	Cuticle Creams & Oils	Hair Care
+2	Cuticle Creams & Oils	Tools & Accessories
+2	Cuticle Creams & Oils	Clippers & Trimmers
+1	Cuticle Creams & Oils	Makeup
+1	Cuticle Creams & Oils	Makeup Sets
+3	Cuticle Creams & Oils	Hair Color Removers
+3	Cuticle Creams & Oils	Hair Drying Towels
+1	Cuticle Creams & Oils	Maternity
+1	Cuticle Creams & Oils	Eyebrow Color
+1	Cuticle Creams & Oils	Diffusers
+1	Cuticle Creams & Oils	Toe Separators
+1	Cuticle Creams & Oils	Face
+2	Cuticle Creams & Oils	Nail Tools
+1	Cuticle Creams & Oils	Sharpeners
+3	Scissors	Nail Brushes
+1	Scissors	Creams, Gels & Lotions
+2	Scissors	Cuticle Removers
+1	Scissors	Exfoliators & Scrubs
+1	Scissors	Body Scrubs
+2	Scissors	Nail Art Equipment
+1	Scissors	Blush
+1	Scissors	Travel Cases & Holders
+1	Scissors	Retinol
+2	Scissors	False Nails
+1	Scissors	Ridge Filler
+1	Scissors	Oils & Serums
+2	Scissors	Brush Bags
+1	Scissors	Styling Accessories
+2	Scissors	Hair Rollers
+2	Scissors	Claws
+1	Scissors	Makeup Mirrors
+1	Scissors	Skin Care
+2	Scissors	Hair & Scalp Treatments
+1	Home Permanent Kits	Bubble Bath
+1	Home Permanent Kits	Decorative Combs
+1	Home Permanent Kits	Foot Rasps
+1	Home Permanent Kits	Sun
+1	Home Permanent Kits	Complexes
+1	Home Permanent Kits	Tanning Oils
+1	Home Permanent Kits	Lip Stains
+1	Home Permanent Kits	Body Souffles & Mousse
+1	Home Permanent Kits	Hair Sticks
+1	Home Permanent Kits	Lip Plumpers
+1	Home Permanent Kits	Eye Shadow
+1	Home Permanent Kits	Eyebrow Color
+1	Home Permanent Kits	Texturizers
+1	Home Permanent Kits	Microdermabrasion
+2	Home Permanent Kits	Skin Care
+1	Home Permanent Kits	Cuticle Pushers
+2	Home Permanent Kits	Body Paint
+1	Home Permanent Kits	Ponytail Holders
+2	Home Permanent Kits	Scrubs & Body Treatments
+1	Shampoo & Conditioner Sets	Crimping Irons
+1	Shampoo & Conditioner Sets	Sharpeners
+3	Shampoo & Conditioner Sets	Bath Mitts & Cloths
+1	Shampoo & Conditioner Sets	Bars
+1	Shampoo & Conditioner Sets	Braiders
+2	Shampoo & Conditioner Sets	Pomades & Waxes
+1	Shampoo & Conditioner Sets	Self Tanners
+1	Shampoo & Conditioner Sets	Sun
+2	Shampoo & Conditioner Sets	Cosmetic Bags
+1	Shampoo & Conditioner Sets	False Nails
+1	Shampoo & Conditioner Sets	Eye Shadow
+1	Shampoo & Conditioner Sets	Complexes
+2	Shampoo & Conditioner Sets	Body Scrubs
+1	Shampoo & Conditioner Sets	Lactic Acid
+1	Shampoo & Conditioner Sets	Polishes
+1	Shampoo & Conditioner Sets	Activators
+2	Shampoo & Conditioner Sets	Nail Art
+1	Shampoo & Conditioner Sets	Foot Rasps
+2	Shampoo & Conditioner Sets	Body Paint
+1	Gels	Oils
+2	Gels	Moisturizing Gloves
+1	Gels	Combinations
+1	Gels	Self Tanners
+1	Gels	Eyeliner
+2	Gels	Fluids & Lotions
+1	Gels	Tote Bags
+1	Gels	Eyebrow Color
+2	Gels	Bath Brushes
+2	Gels	Applicator Bottles
+1	Gels	Home Permanent Kits
+1	Gels	Eye Shadow
+1	Gels	Brushes
+1	Gels	Nail Treatments
+1	Gels	Nail Art
+1	Gels	Cuticle Pushers
+1	Gels	Temporary Tattoos
+1	Gels	Makeup Mirrors
+2	Gels	Hand Creams & Lotions
+1	Combs	Eye Shadow
+1	Combs	Braiders
+1	Combs	Hair Sprays
+1	Combs	Toners & Astringents
+1	Combs	Self-Tanners & Bronzers
+1	Combs	Nail Files & Buffers
+1	Combs	Eyebrow Color
+1	Combs	Styling Tools
+1	Combs	Makeup Palettes
+1	Combs	Bags & Cases
+1	Combs	Hair Sticks
+1	Combs	Fluids & Lotions
+1	Combs	Hair Color
+1	Combs	Lip Glosses
+1	Combs	Eau de Toilette
+1	Combs	Skin Protection
+1	Combs	Ridge Filler
+1	Combs	Lips
+1	Combs	Lipstick Primers
+1	Lotions	Body Scrubs
+1	Lotions	Cuticle Pushers
+1	Lotions	Cologne
+1	Lotions	Pomades & Waxes
+3	Lotions	Tanning Oils
+1	Lotions	Scrubs & Body Treatments
+1	Lotions	Makeup Palettes
+2	Lotions	Hair Drying Towels
+1	Lotions	Sun
+1	Lotions	Exfoliators & Scrubs
+2	Lotions	Chemical Hair Dyes
+1	Lotions	Shower Caps
+1	Lotions	Foundation
+1	Lotions	Sets & Kits
+1	Lotions	Hair Rollers
+1	Lotions	Top & Base Coats
+3	Lotions	Creams & Moisturizers
+1	Lotions	Hair Pins
+1	Lotions	Microdermabrasion
+1	Bronzing Powder	Loofahs, Sponges & Poufs
+1	Bronzing Powder	Chemical Hair Dyes
+1	Bronzing Powder	Styling Products
+1	Bronzing Powder	Bath Mitts & Cloths
+2	Bronzing Powder	Body Paint
+1	Bronzing Powder	Curlers
+1	Bronzing Powder	Refillable Containers
+1	Bronzing Powder	Lip Glosses
+1	Bronzing Powder	Hair Dryers
+1	Bronzing Powder	Headbands
+2	Bronzing Powder	Applicator Bottles
+1	Bronzing Powder	Bubble Bath
+1	Bronzing Powder	Spa Slippers
+1	Bronzing Powder	Bronzers & Highlighters
+1	Bronzing Powder	Cuticle Pushers
+1	Bronzing Powder	Caps, Foils & Wraps
+1	Bronzing Powder	Masks
+1	Bronzing Powder	Hair & Scalp Treatments
+1	Bronzing Powder	Moisturizers
+2	Hand Soaps	Shampoo Plus Conditioner
+2	Hand Soaps	Sets & Kits
+2	Hand Soaps	Brushes
+2	Hand Soaps	Washes
+1	Hand Soaps	Lipstick Primers
+1	Hand Soaps	Clippers & Trimmers
+3	Hand Soaps	Hair Drying Towels
+1	Hand Soaps	Self-Tanners & Bronzers
+2	Hand Soaps	Travel Cases & Holders
+1	Hand Soaps	Sharpeners
+3	Hand Soaps	Shampoo & Conditioner Sets
+2	Hand Soaps	Chemical Hair Dyes
+1	Hand Soaps	Sun
+1	Hand Soaps	Bronzers & Highlighters
+1	Hand Soaps	Paraffin Baths
+2	Hand Soaps	Lip Liners
+2	Hand Soaps	Shower Caps
+1	Hand Soaps	Growth Formula
+1	Hand Soaps	Concealer
+1	Polishes	Bronzing Powder
+1	Polishes	Lipstick
+1	Polishes	Oils
+1	Polishes	Travel Cases & Holders
+1	Polishes	Body Washes
+1	Polishes	Brushes, Combs & Needles
+1	Polishes	Spa Slippers
+1	Polishes	Loofahs, Sponges & Poufs
+1	Polishes	Claws
+1	Polishes	Styling Products
+1	Polishes	Ponytail Holders
+1	Polishes	Washes
+1	Polishes	Bubble Bath
+1	Polishes	Shower Caps
+1	Polishes	Eye Masks
+1	Polishes	Lips
+1	Polishes	Bath Trays
+1	Polishes	Lip Glosses
+1	Polishes	Highlights
+1	Curl Enhancers	Masks
+1	Curl Enhancers	Hair Cutting Kits
+1	Curl Enhancers	Hair Pins
+1	Curl Enhancers	Face Cleansing Brushes
+1	Curl Enhancers	Tinted Moisturizers
+1	Curl Enhancers	Cuticle Repair
+1	Curl Enhancers	Eye Masks
+1	Curl Enhancers	Braid Maintenance
+1	Curl Enhancers	Makeup Palettes
+1	Curl Enhancers	Cleansers
+1	Curl Enhancers	Hair Dryers
+1	Curl Enhancers	Bath Pearls & Flakes
+1	Curl Enhancers	Clips
+1	Curl Enhancers	Alpha Beta
+1	Curl Enhancers	Blotting Paper
+1	Curl Enhancers	Hot-Air Brushes
+1	Curl Enhancers	Cloths & Towelettes
+1	Curl Enhancers	Day Creams
+1	Curl Enhancers	Brushes, Combs & Needles
+2	Tinted Moisturizers	Cuticle Pushers
+1	Tinted Moisturizers	False Nails
+1	Tinted Moisturizers	Rollers & Pens
+1	Tinted Moisturizers	Exfoliators & Scrubs
+1	Tinted Moisturizers	Sets & Kits
+1	Tinted Moisturizers	Hennas
+2	Tinted Moisturizers	Soaps
+1	Tinted Moisturizers	Nail Polish Remover
+1	Tinted Moisturizers	Scrubs & Body Treatments
+1	Tinted Moisturizers	Home Permanent Kits
+1	Tinted Moisturizers	Refillable Containers
+1	Tinted Moisturizers	Hair Care
+1	Tinted Moisturizers	Lip Glosses
+1	Tinted Moisturizers	Nail Files & Buffers
+1	Tinted Moisturizers	Body Souffles & Mousse
+2	Tinted Moisturizers	Barrettes
+2	Tinted Moisturizers	Color Correctors
+1	Tinted Moisturizers	Minerals & Salts
+1	Tinted Moisturizers	Highlights
+2	Irons	Hair Pins
+1	Irons	Concealer & Base
+1	Irons	Claws
+1	Irons	Ponytail Holders
+1	Irons	Nail Art
+1	Irons	Toe Separators
+1	Irons	Fluids & Lotions
+1	Irons	Hennas
+1	Irons	Hand Soaps
+1	Irons	Toners & Astringents
+1	Irons	Sharpeners
+1	Irons	Caps, Foils & Wraps
+1	Irons	Lips
+1	Irons	Body Paint
+1	Irons	Body Souffles & Mousse
+5	Irons	Irons
+1	Irons	Bags & Cases
+1	Irons	Eyes
+1	Irons	Clips
+2	Lip Plumpers	Hair Pins
+1	Lip Plumpers	Braid Maintenance
+1	Lip Plumpers	Moisturizers
+2	Lip Plumpers	Hair Rollers
+1	Lip Plumpers	Tanning Oils
+1	Lip Plumpers	Cologne
+1	Lip Plumpers	Shower Caps
+1	Lip Plumpers	Fragrance
+1	Lip Plumpers	Makeup Palettes
+1	Lip Plumpers	Cuticle Creams & Oils
+1	Lip Plumpers	Oils & Serums
+2	Lip Plumpers	Lipstick
+2	Lip Plumpers	Hair Extensions
+1	Lip Plumpers	Fake Eyelashes & Adhesives
+1	Lip Plumpers	Cuticle Pushers
+1	Lip Plumpers	Scrubs & Body Treatments
+1	Lip Plumpers	Women's
+2	Lip Plumpers	Hair Color Removers
+1	Lip Plumpers	Braiders
+1	Skin Care	Scissors
+2	Skin Care	Nail Repair
+2	Skin Care	Face Cleansing Brushes
+1	Skin Care	Nail Dryers
+1	Skin Care	Texturizers
+2	Skin Care	Fluids
+1	Skin Care	Hairpieces
+2	Skin Care	Brush Bags
+1	Skin Care	Caps, Foils & Wraps
+1	Skin Care	Lipstick
+3	Skin Care	Eyes
+1	Skin Care	Salicylic Acid
+2	Skin Care	Growth Formula
+1	Skin Care	Paraffin Baths
+1	Skin Care	Polishes
+3	Skin Care	Scrubs & Body Treatments
+1	Skin Care	Ponytail Holders
+1	Skin Care	Bath Mitts & Cloths
+2	Skin Care	Styling Tools
+1	Body Sprays	Puffs, Sponges & Wedges
+1	Body Sprays	Clips
+1	Body Sprays	Glitter & Shimmer
+1	Body Sprays	Home Permanent Kits
+1	Body Sprays	Maternity
+2	Body Sprays	Tote Bags
+1	Body Sprays	Cotton Balls
+2	Body Sprays	Cuticle Creams & Oils
+2	Body Sprays	Nail Tools
+1	Body Sprays	Microdermabrasion
+3	Body Sprays	Body Butter
+2	Body Sprays	Nails
+1	Body Sprays	Alpha Beta
+1	Body Sprays	Caps, Foils & Wraps
+2	Body Sprays	Face
+1	Body Sprays	Headbands
+3	Body Sprays	Hair Care
+2	Body Sprays	Cosmetic Bags
+1	Body Sprays	Pillows
+1	Hair Drying Towels	Glycolic Acid
+2	Hair Drying Towels	Caps, Foils & Wraps
+1	Hair Drying Towels	Hennas
+1	Hair Drying Towels	Moisturizers
+2	Hair Drying Towels	Cosmetic Bags
+1	Hair Drying Towels	Irons
+2	Hair Drying Towels	Brushes
+2	Hair Drying Towels	Nail Whitening
+1	Hair Drying Towels	Minerals & Salts
+1	Hair Drying Towels	Crimping Irons
+1	Hair Drying Towels	Nail Polish
+2	Hair Drying Towels	Makeup Mirrors
+2	Hair Drying Towels	Nails
+3	Hair Drying Towels	Bath Pearls & Flakes
+2	Hair Drying Towels	Face
+2	Hair Drying Towels	Cotton Swabs
+2	Hair Drying Towels	Lotions
+1	Hair Drying Towels	Blush
+2	Hair Drying Towels	False Nails
+1	Bags & Cases	Foot Rasps
+1	Bags & Cases	Self Tanners
+1	Bags & Cases	Creams
+3	Bags & Cases	Hand Creams & Lotions
+1	Bags & Cases	Cuticle Repair
+2	Bags & Cases	Nail Art
+2	Bags & Cases	After Sun
+2	Bags & Cases	Dark Circle Treatments
+1	Bags & Cases	Growth Formula
+1	Bags & Cases	Lotions
+1	Bags & Cases	Nails
+1	Bags & Cases	Cuticle Pushers
+2	Bags & Cases	Acids & Peels
+1	Bags & Cases	Curl Enhancers
+2	Bags & Cases	Bath Pillows
+3	Bags & Cases	Sets & Kits
+1	Bags & Cases	Lips
+1	Bags & Cases	Polishes
+2	Bags & Cases	Mousses & Foams
+2	Hair Dryers	Scrubs & Body Treatments
+1	Hair Dryers	Liner & Shadow Combinations
+4	Hair Dryers	Hair Rollers
+2	Hair Dryers	Cuticle Repair
+1	Hair Dryers	Train Cases
+3	Hair Dryers	Hair Color Removers
+1	Hair Dryers	Pomades & Waxes
+2	Hair Dryers	Cosmetic Bags
+1	Hair Dryers	Salicylic Acid
+1	Hair Dryers	Concealer
+1	Hair Dryers	Eau de Toilette
+2	Hair Dryers	Fake Eyelashes & Adhesives
+1	Hair Dryers	Home Permanent Kits
+1	Hair Dryers	Nail Art
+1	Hair Dryers	Bronzing Powder
+1	Hair Dryers	Sports
+3	Hair Dryers	Chemical Hair Dyes
+2	Hair Dryers	Creams
+2	Hair Dryers	Flattening Irons
+1	Alpha Beta	Hair Care
+1	Alpha Beta	Bags & Cases
+1	Alpha Beta	Color Correctors
+1	Alpha Beta	Travel Cases & Holders
+1	Alpha Beta	Hair Styling Serums
+1	Alpha Beta	Concealer
+1	Alpha Beta	Combinations
+1	Alpha Beta	Styling Accessories
+1	Alpha Beta	Brushes
+1	Alpha Beta	Face Cleansing Brushes
+1	Alpha Beta	Hand Creams & Lotions
+1	Alpha Beta	Cuticle Removers
+1	Alpha Beta	Barrettes
+1	Alpha Beta	Lip Plumpers
+1	Alpha Beta	Polishes
+1	Alpha Beta	Body Mud
+1	Alpha Beta	Mirrors
+1	Alpha Beta	Blush
+1	Alpha Beta	Women's
+1	Lip Liners	Eau de Toilette
+1	Lip Liners	Train Cases
+1	Lip Liners	Color Refreshers
+1	Lip Liners	Wigs
+2	Lip Liners	Shower Mirrors
+1	Lip Liners	Body Sprays
+1	Lip Liners	Sets
+1	Lip Liners	Brushes
+1	Lip Liners	Hair & Scalp Treatments
+2	Lip Liners	Hair Pins
+1	Lip Liners	Complexes
+1	Lip Liners	Brushes, Combs & Needles
+1	Lip Liners	Mirrors
+2	Lip Liners	Eyebrow Color
+1	Lip Liners	Travel Cases & Holders
+1	Lip Liners	Eyeliner
+1	Lip Liners	Bags & Cases
+1	Lip Liners	Hair Sprays
+1	Lip Liners	Irons
+1	Hair & Scalp Treatments	Polishes
+2	Hair & Scalp Treatments	Scissors
+2	Hair & Scalp Treatments	Pomades & Waxes
+3	Hair & Scalp Treatments	Hair Sprays
+1	Hair & Scalp Treatments	Concealer
+1	Hair & Scalp Treatments	Scrubs
+2	Hair & Scalp Treatments	Essential Oils
+1	Hair & Scalp Treatments	Sets
+2	Hair & Scalp Treatments	Nails
+2	Hair & Scalp Treatments	Train Cases
+1	Hair & Scalp Treatments	Serums
+3	Hair & Scalp Treatments	Skin Care
+1	Hair & Scalp Treatments	Cologne
+2	Hair & Scalp Treatments	Nail Art
+1	Hair & Scalp Treatments	Growth Formula
+1	Hair & Scalp Treatments	Barrettes
+1	Hair & Scalp Treatments	Lip Liners
+1	Hair & Scalp Treatments	Lactic Acid
+3	Hair & Scalp Treatments	Bath & Body
+1	Cologne	Flattening Irons
+1	Cologne	Nail Polish
+1	Cologne	Dark Circle Treatments
+1	Cologne	Styling Tools
+1	Cologne	Pillows
+1	Cologne	Brushes, Combs & Needles
+1	Cologne	Treatments & Masks
+1	Cologne	Blotting Paper
+1	Cologne	Bronzers & Highlighters
+1	Cologne	Brushes
+1	Cologne	Lip Plumpers
+1	Cologne	Sports
+1	Cologne	Shower Caps
+1	Cologne	Headbands
+1	Cologne	Brushes & Applicators
+1	Cologne	Sharpeners
+1	Cologne	Concealer
+1	Cologne	Women's
+1	Cologne	Body Paint
+1	Creams, Gels & Lotions	Diffusers
+1	Creams, Gels & Lotions	Cotton Balls
+1	Creams, Gels & Lotions	Eye Masks
+1	Creams, Gels & Lotions	Nail Strengthening
+1	Creams, Gels & Lotions	Cuticle Pushers
+2	Creams, Gels & Lotions	Styling Accessories
+2	Creams, Gels & Lotions	Brushes
+1	Creams, Gels & Lotions	Claws
+1	Creams, Gels & Lotions	Lactic Acid
+1	Creams, Gels & Lotions	Sports
+2	Creams, Gels & Lotions	Skin Protection
+1	Creams, Gels & Lotions	Home Permanent Kits
+2	Creams, Gels & Lotions	Spa Slippers
+1	Creams, Gels & Lotions	Blotting Paper
+2	Creams, Gels & Lotions	Self-Tanners & Bronzers
+2	Creams, Gels & Lotions	Liner & Shadow Combinations
+1	Creams, Gels & Lotions	Concealer
+2	Creams, Gels & Lotions	Nail Brushes
+2	Creams, Gels & Lotions	Bath
+1	Maternity	Hair Regrowth Treatments
+1	Maternity	Growth Formula
+1	Maternity	Tanning Oils
+1	Maternity	Hair & Scalp Treatments
+1	Maternity	Creams & Moisturizers
+1	Maternity	Foundation
+1	Maternity	Washes
+1	Maternity	Hairpieces
+1	Maternity	Body Washes
+1	Maternity	Lip Stains
+1	Maternity	Fluids
+1	Maternity	Train Cases
+1	Maternity	Bath & Body
+1	Maternity	Applicator Bottles
+1	Maternity	Body Sprays
+1	Maternity	Exfoliators
+1	Maternity	Sports
+1	Maternity	Blush
+1	Maternity	Texturizers
+1	Eye Masks	Barrettes
+2	Eye Masks	Liner & Shadow Combinations
+1	Eye Masks	Shampoo Plus Conditioner
+1	Eye Masks	Bubble Bath
+1	Eye Masks	Texturizers
+1	Eye Masks	Complexes
+3	Eye Masks	Body Paint
+2	Eye Masks	Tools & Accessories
+2	Eye Masks	Color Refreshers
+1	Eye Masks	Bars
+1	Eye Masks	Bath Pillows
+1	Eye Masks	Sets
+2	Eye Masks	Fake Eyelashes & Adhesives
+1	Eye Masks	Bath Pearls & Flakes
+1	Eye Masks	Clips
+2	Eye Masks	Shower Caps
+1	Eye Masks	Mascara
+1	Eye Masks	Brushes & Applicators
+1	Eye Masks	Retinol
+1	Pomades & Waxes	Bars
+1	Pomades & Waxes	Hair Loss Products
+2	Pomades & Waxes	Cloths & Towelettes
+2	Pomades & Waxes	Bath
+1	Pomades & Waxes	Lipstick Primers
+1	Pomades & Waxes	Cuticle Pushers
+1	Pomades & Waxes	Claws
+1	Pomades & Waxes	Headbands
+1	Pomades & Waxes	Color Correctors
+1	Pomades & Waxes	Gels
+2	Pomades & Waxes	Brushes, Combs & Needles
+2	Pomades & Waxes	Sets & Kits
+1	Pomades & Waxes	Hand Soaps
+3	Pomades & Waxes	Self-Tanners & Bronzers
+1	Pomades & Waxes	Brushes
+1	Pomades & Waxes	Retinol
+1	Pomades & Waxes	Nail Brushes
+1	Pomades & Waxes	Travel Cases & Holders
+2	Pomades & Waxes	Nail Art Equipment
+1	Styling Tools	Masks
+2	Styling Tools	Hand Creams & Lotions
+1	Styling Tools	Polishes
+1	Styling Tools	Hennas
+1	Styling Tools	Travel Cases & Holders
+1	Styling Tools	Braiders
+2	Styling Tools	Hair Pins
+1	Styling Tools	Lip Plumpers
+1	Styling Tools	Microdermabrasion
+2	Styling Tools	Nail Dryers
+1	Styling Tools	Moisturizing Gloves
+1	Styling Tools	Curl Enhancers
+1	Styling Tools	Body Butter
+1	Styling Tools	Ridge Filler
+1	Styling Tools	Pomades & Waxes
+1	Styling Tools	Hair Drying Towels
+2	Styling Tools	Dark Circle Treatments
+2	Styling Tools	Combinations
+2	Styling Tools	Hair Care
+1	Concealers & Neutralizers	Polishes
+1	Concealers & Neutralizers	Puffiness Treatments
+1	Concealers & Neutralizers	Combs
+1	Concealers & Neutralizers	Hair Styling Serums
+1	Concealers & Neutralizers	Dark Circle Treatments
+1	Concealers & Neutralizers	Hair Color Removers
+1	Concealers & Neutralizers	Irons
+1	Concealers & Neutralizers	Hair Rollers
+3	Concealers & Neutralizers	Bath & Body
+1	Concealers & Neutralizers	Tanning Oils
+1	Concealers & Neutralizers	Color Correctors
+1	Concealers & Neutralizers	Creams
+1	Concealers & Neutralizers	Cosmetic Bags
+1	Concealers & Neutralizers	Alpha Beta
+1	Concealers & Neutralizers	Highlights
+1	Concealers & Neutralizers	Eye Masks
+1	Concealers & Neutralizers	Face Cleansing Brushes
+1	Concealers & Neutralizers	Serums
+1	Concealers & Neutralizers	Gels
+1	Eyeliner	Cologne
+1	Eyeliner	Bronzers & Highlighters
+1	Eyeliner	Claws
+1	Eyeliner	Dark Circle Treatments
+1	Eyeliner	Cuticle Repair
+1	Eyeliner	Body Butter
+1	Eyeliner	Activators
+1	Eyeliner	Eau de Toilette
+1	Eyeliner	Soaps
+1	Eyeliner	Bath Brushes
+1	Eyeliner	Creams, Gels & Lotions
+1	Eyeliner	Concealer & Base
+1	Eyeliner	Body Souffles & Mousse
+1	Eyeliner	Tote Bags
+1	Eyeliner	Combs
+1	Eyeliner	Scrubs
+1	Eyeliner	Flattening Irons
+2	Eyeliner	Brushes
+1	Eyeliner	Fragrance
+1	Nail Dryers	Activators
+2	Nail Dryers	Wigs
+1	Nail Dryers	Hairpieces
+1	Nail Dryers	Home Permanent Kits
+2	Nail Dryers	Hair Extensions
+2	Nail Dryers	Tanning Oils
+1	Nail Dryers	Curlers
+2	Nail Dryers	Eyelash Tools
+1	Nail Dryers	Essential Oils
+1	Nail Dryers	Loofahs, Sponges & Poufs
+2	Nail Dryers	Puffs, Sponges & Wedges
+2	Nail Dryers	Creams & Moisturizers
+1	Nail Dryers	Complexes
+1	Nail Dryers	Scrubs
+1	Nail Dryers	Skin Protection
+1	Nail Dryers	Caps, Foils & Wraps
+1	Nail Dryers	Powder
+2	Nail Dryers	Gels
+1	Nail Dryers	Salicylic Acid
+1	Retinol	Sharpeners
+1	Retinol	Cuticle Pushers
+1	Retinol	Curling Irons
+1	Retinol	Women's
+1	Retinol	Hair Pins
+1	Retinol	Body Paint
+1	Retinol	Moisturizing Gloves
+1	Retinol	Nail Art Equipment
+1	Retinol	Self Tanners
+1	Retinol	Eau de Parfum
+1	Retinol	Liner & Shadow Combinations
+1	Retinol	Texturizers
+1	Retinol	Hair Regrowth Treatments
+1	Retinol	Growth Formula
+1	Retinol	Bronzers & Highlighters
+1	Retinol	Bubble Bath
+1	Retinol	Travel Cases & Holders
+1	Retinol	Lactic Acid
+1	Retinol	Serums
+1	Nail Thickening Solution	Makeup
+1	Nail Thickening Solution	Sets
+1	Nail Thickening Solution	Shampoo Plus Conditioner
+2	Nail Thickening Solution	Hair Loss Products
+1	Nail Thickening Solution	Shower Caps
+1	Nail Thickening Solution	Puffs, Sponges & Wedges
+2	Nail Thickening Solution	Skin Protection
+2	Nail Thickening Solution	Hair Sprays
+1	Nail Thickening Solution	Styling Products
+1	Nail Thickening Solution	Eau de Parfum
+1	Nail Thickening Solution	Moisturizers
+1	Nail Thickening Solution	Acids & Peels
+2	Nail Thickening Solution	Shower Mirrors
+1	Nail Thickening Solution	Hot-Air Brushes
+1	Nail Thickening Solution	Self Tanners
+1	Nail Thickening Solution	Lip Liners
+1	Nail Thickening Solution	Shampoo & Conditioner Sets
+1	Nail Thickening Solution	Cuticle Pushers
+1	Nail Thickening Solution	Flattening Irons
+3	Shampoos	Creams & Moisturizers
+2	Shampoos	Oils & Serums
+1	Shampoos	Growth Formula
+3	Shampoos	Gels
+1	Shampoos	Mascara
+2	Shampoos	Lipstick Primers
+1	Shampoos	Minerals & Salts
+2	Shampoos	Cuticle Creams & Oils
+1	Shampoos	Hair Loss Products
+2	Shampoos	Bath Pillows
+2	Shampoos	Day Creams
+1	Shampoos	Shower Mirrors
+1	Shampoos	Face Cleansing Brushes
+1	Shampoos	Ponytail Holders
+1	Shampoos	Nail Thickening Solution
+1	Shampoos	Bags & Cases
+2	Shampoos	Styling Products
+1	Shampoos	Women's
+1	Shampoos	Blush
+1	Cleansers	Bath
+1	Cleansers	Applicator Bottles
+1	Cleansers	Color Correctors
+1	Cleansers	Styling Accessories
+1	Cleansers	Brush Bags
+1	Cleansers	Claws
+2	Cleansers	Creams
+1	Cleansers	Women's
+1	Cleansers	Night Creams
+1	Cleansers	Dark Circle Treatments
+2	Cleansers	Cuticle Pushers
+1	Cleansers	Cuticle Removers
+1	Cleansers	Exfoliators
+1	Cleansers	Lip Stains
+1	Cleansers	Nail Art Equipment
+1	Cleansers	Oils
+1	Cleansers	Lipstick Primers
+1	Cleansers	Sets & Kits
+1	Cleansers	Self-Tanners & Bronzers
+1	Diffusers	Loofahs, Sponges & Poufs
+1	Diffusers	Nail Tools
+1	Diffusers	Foundation
+1	Diffusers	Travel Cases & Holders
+1	Diffusers	Curlers
+1	Diffusers	Brushes & Applicators
+1	Diffusers	Hair Cutting Kits
+1	Diffusers	Moisturizing Gloves
+1	Diffusers	Toe Separators
+1	Diffusers	Top & Base Coats
+1	Diffusers	Barrettes
+1	Diffusers	Irons
+1	Diffusers	Brushes
+1	Diffusers	Makeup Sets
+1	Diffusers	Body Scrubs
+1	Diffusers	Brush Bags
+1	Diffusers	Spa Slippers
+1	Diffusers	Bath
+1	Diffusers	Highlights
+1	Glitter & Shimmer	Blush
+2	Glitter & Shimmer	Body Souffles & Mousse
+1	Glitter & Shimmer	Eyelash Tools
+1	Glitter & Shimmer	Body
+1	Glitter & Shimmer	Nail Tools
+1	Glitter & Shimmer	Nails
+1	Glitter & Shimmer	Applicator Bottles
+3	Glitter & Shimmer	Mousses & Foams
+1	Glitter & Shimmer	Curlers
+1	Glitter & Shimmer	Night Creams
+1	Glitter & Shimmer	Styling Tools
+1	Glitter & Shimmer	Lip Glosses
+2	Glitter & Shimmer	Minerals & Salts
+2	Glitter & Shimmer	Bath & Body
+3	Glitter & Shimmer	Toners & Astringents
+2	Glitter & Shimmer	Tools & Accessories
+1	Glitter & Shimmer	Mirrors
+1	Glitter & Shimmer	Clips
+1	Glitter & Shimmer	Cosmetic Bags
+1	Bath Bombs	Lip Stains
+1	Bath Bombs	Masks
+1	Bath Bombs	Lotions
+1	Bath Bombs	Cotton Swabs
+1	Bath Bombs	Nail Polish Remover
+1	Bath Bombs	Moisturizers
+1	Bath Bombs	Foundation
+1	Bath Bombs	Toe Separators
+1	Bath Bombs	Makeup Sets
+1	Bath Bombs	Body Washes
+1	Bath Bombs	Spa Slippers
+1	Bath Bombs	Hair Color Removers
+1	Bath Bombs	Ponytail Holders
+1	Bath Bombs	Hair Pins
+1	Bath Bombs	Hair Styling Serums
+1	Bath Bombs	Foot Rasps
+2	Bath Bombs	Puffs, Sponges & Wedges
+1	Bath Bombs	Maternity
+1	Bath Bombs	Color Refreshers
+1	Powder	Nail Whitening
+1	Powder	Puffs, Sponges & Wedges
+1	Powder	Scrubs & Body Treatments
+1	Powder	Lip Glosses
+1	Powder	Combs
+1	Powder	Hair Rollers
+1	Powder	Body Scrubs
+1	Powder	Hair Regrowth Treatments
+1	Powder	Creams, Gels & Lotions
+1	Powder	Hair Styling Serums
+1	Powder	Conditioners
+1	Powder	Skin Care
+1	Powder	Fluids & Lotions
+1	Powder	Moisturizing Gloves
+1	Powder	Serums
+1	Powder	Mousses & Foams
+1	Powder	Bubble Bath
+1	Powder	Headbands
+1	Powder	Caps, Foils & Wraps
+2	Face Cleansing Brushes	Body Washes
+2	Face Cleansing Brushes	Nail Tools
+2	Face Cleansing Brushes	Hair Cutting Kits
+1	Face Cleansing Brushes	Salicylic Acid
+2	Face Cleansing Brushes	Hair Sticks
+2	Face Cleansing Brushes	Nail Polish
+1	Face Cleansing Brushes	Cotton Balls
+1	Face Cleansing Brushes	Tools & Accessories
+2	Face Cleansing Brushes	Hair Color
+1	Face Cleansing Brushes	Combinations
+2	Face Cleansing Brushes	Body Paint
+1	Face Cleansing Brushes	Fluids
+1	Face Cleansing Brushes	Alpha Beta
+2	Face Cleansing Brushes	Creams
+2	Face Cleansing Brushes	Shampoo & Conditioner Sets
+1	Face Cleansing Brushes	Bronzers & Highlighters
+3	Face Cleansing Brushes	Pore Cleansing Strips
+1	Face Cleansing Brushes	Sunscreens
+1	Face Cleansing Brushes	Sets & Kits
+1	Eau de Parfum	Scrubs & Body Treatments
+1	Eau de Parfum	Styling Tools
+1	Eau de Parfum	Concealer & Base
+1	Eau de Parfum	Scrubs
+1	Eau de Parfum	Fluids & Lotions
+1	Eau de Parfum	Cuticle Removers
+1	Eau de Parfum	Skin Care
+1	Eau de Parfum	Curlers
+1	Eau de Parfum	Hair Dryers
+1	Eau de Parfum	Color Correctors
+1	Eau de Parfum	Combs
+1	Eau de Parfum	Pore Cleansing Strips
+1	Eau de Parfum	Shampoo Plus Conditioner
+1	Eau de Parfum	Mousses & Foams
+1	Eau de Parfum	Glitter & Shimmer
+1	Eau de Parfum	Hair Regrowth Treatments
+1	Eau de Parfum	Tanning Oils
+1	Eau de Parfum	Skin Protection
+1	Eau de Parfum	Lips
+2	Hair Extensions	Home Permanent Kits
+2	Hair Extensions	Decorative Combs
+1	Hair Extensions	Salicylic Acid
+2	Hair Extensions	Puffs, Sponges & Wedges
+1	Hair Extensions	Alpha Beta
+1	Hair Extensions	Blush
+2	Hair Extensions	Creams
+2	Hair Extensions	Nail Art
+2	Hair Extensions	Hand Soaps
+2	Hair Extensions	Skin Protection
+2	Hair Extensions	Sets & Kits
+2	Hair Extensions	Body Washes
+3	Hair Extensions	Hair Regrowth Treatments
+1	Hair Extensions	Essential Oils
+1	Hair Extensions	Caps, Foils & Wraps
+1	Hair Extensions	Serums
+1	Hair Extensions	Microdermabrasion
+1	Hair Extensions	Hairpieces
+1	Hair Extensions	Masks
+1	Fluids	Nail Dryers
+1	Fluids	Fragrance
+2	Fluids	Body
+1	Fluids	Lip Plumpers
+1	Fluids	Hair Loss Products
+1	Fluids	Makeup Sets
+1	Fluids	Bronzers & Highlighters
+2	Fluids	Puffiness Treatments
+1	Fluids	Hair & Scalp Treatments
+2	Fluids	Hair Drying Towels
+1	Fluids	Styling Products
+1	Fluids	Nail Tools
+1	Fluids	Sets
+1	Fluids	Bubble Bath
+1	Fluids	Train Cases
+1	Fluids	Curl Enhancers
+1	Fluids	Mirrors
+1	Fluids	Activators
+2	Fluids	Salicylic Acid
+1	Body Washes	Microdermabrasion
+1	Body Washes	Applicator Bottles
+1	Body Washes	Loofahs, Sponges & Poufs
+1	Body Washes	Irons
+1	Body Washes	Sports
+3	Body Washes	Body Souffles & Mousse
+4	Body Washes	Body Mud
+1	Body Washes	Bath Trays
+1	Body Washes	Toners & Astringents
+1	Body Washes	Clips
+2	Body Washes	Top & Base Coats
+4	Body Washes	Body
+1	Body Washes	Nail Art
+2	Body Washes	Cosmetic Bags
+1	Body Washes	Nail Polish Remover
+1	Body Washes	Eau de Toilette
+1	Body Washes	Styling Tools
+1	Body Washes	Women's
+1	Body Washes	Concealers & Neutralizers
+1	Shower Caps	Cuticle Creams & Oils
+2	Shower Caps	Wigs
+1	Shower Caps	Puffs, Sponges & Wedges
+1	Shower Caps	Refillable Containers
+1	Shower Caps	Cleansers
+2	Shower Caps	Face Cleansing Brushes
+1	Shower Caps	Clips
+1	Shower Caps	Self Tanners
+1	Shower Caps	Exfoliators & Scrubs
+1	Shower Caps	Foundation
+1	Shower Caps	Polishes
+1	Shower Caps	Pore Cleansing Strips
+3	Shower Caps	Hair Drying Towels
+2	Shower Caps	Hair & Scalp Treatments
+1	Shower Caps	Bronzers & Highlighters
+2	Shower Caps	Bath Pearls & Flakes
+1	Shower Caps	Styling Tools
+1	Shower Caps	Nail Thickening Solution
+1	Shower Caps	Lips
+2	Paraffin Baths	Cuticle Creams & Oils
+1	Paraffin Baths	Fluids
+1	Paraffin Baths	Nail Art
+1	Paraffin Baths	Nail Tools
+1	Paraffin Baths	Retinol
+1	Paraffin Baths	Eyes
+1	Paraffin Baths	Hair Care
+1	Paraffin Baths	Chemical Hair Dyes
+1	Paraffin Baths	Lip Plumpers
+1	Paraffin Baths	Activators
+1	Paraffin Baths	Brushes, Combs & Needles
+1	Paraffin Baths	Nail Files & Buffers
+2	Paraffin Baths	Bath Bombs
+1	Paraffin Baths	Top & Base Coats
+1	Paraffin Baths	Powder
+1	Paraffin Baths	Face
+1	Paraffin Baths	Bags & Cases
+1	Paraffin Baths	Cotton Balls
+1	Paraffin Baths	Tools & Accessories
+1	Braiders	Bath & Body
+1	Braiders	Lactic Acid
+1	Braiders	Clippers & Trimmers
+1	Braiders	Shampoo Plus Conditioner
+1	Braiders	Cosmetic Bags
+1	Braiders	Lip Glosses
+1	Braiders	Dark Circle Treatments
+1	Braiders	Gels
+1	Braiders	Cuticle Removers
+1	Braiders	Hair Styling Serums
+1	Braiders	After Sun
+1	Braiders	Nail Treatments
+1	Braiders	Hair & Scalp Treatments
+1	Braiders	Glycolic Acid
+1	Braiders	Tanning Oils
+1	Braiders	Sports
+1	Braiders	Body
+1	Braiders	Treatments & Masks
+1	Braiders	Tinted Moisturizers
+1	Scrubs	Makeup
+1	Scrubs	Cotton Swabs
+1	Scrubs	Women's
+1	Scrubs	Bars
+1	Scrubs	Spa Slippers
+1	Scrubs	Cologne
+1	Scrubs	Foundation Primers
+1	Scrubs	Cosmetic Bags
+1	Scrubs	Sets
+1	Scrubs	Nail Strengthening
+1	Scrubs	Travel Cases & Holders
+1	Scrubs	Fake Eyelashes & Adhesives
+1	Scrubs	Tote Bags
+3	Scrubs	Exfoliators & Scrubs
+1	Scrubs	Sharpeners
+1	Scrubs	Foot Rasps
+1	Scrubs	Complexes
+1	Scrubs	Treatments & Masks
+1	Scrubs	Curl Enhancers
+2	Minerals & Salts	Bubble Bath
+1	Minerals & Salts	Color Correctors
+3	Minerals & Salts	Creams, Gels & Lotions
+1	Minerals & Salts	Cuticle Pushers
+1	Minerals & Salts	Hot-Air Brushes
+2	Minerals & Salts	Caps, Foils & Wraps
+2	Minerals & Salts	Glitter & Shimmer
+1	Minerals & Salts	Puffiness Treatments
+1	Minerals & Salts	Polishes
+2	Minerals & Salts	Cloths & Towelettes
+2	Minerals & Salts	Nail Art Equipment
+1	Minerals & Salts	Makeup Sets
+1	Minerals & Salts	Makeup Mirrors
+1	Minerals & Salts	Hair Drying Towels
+1	Minerals & Salts	Hairpieces
+1	Minerals & Salts	Body Scrubs
+1	Minerals & Salts	Flattening Irons
+1	Minerals & Salts	Hennas
+1	Minerals & Salts	Activators
+3	Hair Cutting Kits	Cosmetic Bags
+1	Hair Cutting Kits	Ridge Filler
+2	Hair Cutting Kits	Creams & Moisturizers
+1	Hair Cutting Kits	Lip Glosses
+1	Hair Cutting Kits	Curl Enhancers
+1	Hair Cutting Kits	Sunscreens
+1	Hair Cutting Kits	Refillable Containers
+1	Hair Cutting Kits	Self-Tanners & Bronzers
+3	Hair Cutting Kits	Brush Bags
+3	Hair Cutting Kits	Hair Extensions
+3	Hair Cutting Kits	Scrubs & Body Treatments
+1	Hair Cutting Kits	Cuticle Removers
+2	Hair Cutting Kits	Shower Caps
+1	Hair Cutting Kits	Fluids
+2	Hair Cutting Kits	Fluids & Lotions
+1	Hair Cutting Kits	Sun
+1	Hair Cutting Kits	Texturizers
+1	Hair Cutting Kits	Clips
+1	Hair Cutting Kits	Hennas
+1	Hair Sticks	Mousses & Foams
+2	Hair Sticks	Makeup Mirrors
+5	Hair Sticks	Hair Sticks
+2	Hair Sticks	Shampoo Plus Conditioner
+2	Hair Sticks	Brushes
+2	Hair Sticks	Nail Art Equipment
+1	Hair Sticks	Clips
+1	Hair Sticks	Lip Liners
+2	Hair Sticks	Skin Protection
+1	Hair Sticks	Cuticle Removers
+1	Hair Sticks	Crimping Irons
+2	Hair Sticks	Eyebrow Color
+1	Hair Sticks	Cuticle Pushers
+3	Hair Sticks	Hair Care
+1	Hair Sticks	Texturizers
+1	Hair Sticks	Fluids
+2	Hair Sticks	Masks
+1	Hair Sticks	Lotions
+1	Hair Sticks	Clippers & Trimmers
+2	Night Creams	Hair Color Removers
+1	Night Creams	Scissors
+1	Night Creams	Moisturizers
+2	Night Creams	Shampoo Plus Conditioner
+1	Night Creams	Hot-Air Brushes
+1	Night Creams	Mascara
+1	Night Creams	Highlights
+2	Night Creams	Travel Cases & Holders
+1	Night Creams	Hairpieces
+1	Night Creams	Nail Polish
+1	Night Creams	Claws
+1	Night Creams	Ridge Filler
+2	Night Creams	Pillows
+1	Night Creams	Self-Tanners & Bronzers
+1	Night Creams	Eyelash Tools
+1	Night Creams	Temporary Tattoos
+1	Night Creams	False Nails
+1	Night Creams	Nail Brushes
+2	Night Creams	Nail Art Equipment
+2	Eyes	Hair Drying Towels
+1	Eyes	Brushes, Combs & Needles
+1	Eyes	Cuticle Removers
+1	Eyes	Shampoo Plus Conditioner
+1	Eyes	Combinations
+1	Eyes	Women's
+3	Eyes	Face
+1	Eyes	Spa Slippers
+1	Eyes	Nail Polish
+2	Eyes	Masks
+1	Eyes	Bronzers & Highlighters
+3	Eyes	Skin Protection
+1	Eyes	Concealers & Neutralizers
+1	Eyes	Eau de Toilette
+1	Eyes	Puffs, Sponges & Wedges
+1	Eyes	Nail Brushes
+1	Eyes	Growth Formula
+2	Eyes	Hair Rollers
+3	Eyes	Hair Pins
+1	Concealer	Paraffin Baths
+1	Concealer	Cologne
+5	Concealer	Concealer
+1	Concealer	Treatments & Masks
+1	Concealer	After Sun
+1	Concealer	Self-Tanners & Bronzers
+1	Concealer	Glycolic Acid
+1	Concealer	Pillows
+1	Concealer	Temporary Tattoos
+1	Concealer	Nail Polish Remover
+1	Concealer	Home Permanent Kits
+1	Concealer	Sun
+1	Concealer	Lactic Acid
+1	Concealer	Hair Dryers
+1	Concealer	Women's
+1	Concealer	Shampoo & Conditioner Sets
+1	Concealer	Face
+1	Concealer	Nail Treatments
+1	Concealer	Eau de Toilette
+1	Bath Mitts & Cloths	Curling Irons
+2	Bath Mitts & Cloths	Hair Color
+2	Bath Mitts & Cloths	Nail Tools
+1	Bath Mitts & Cloths	Eau de Toilette
+2	Bath Mitts & Cloths	Body Paint
+2	Bath Mitts & Cloths	Day Creams
+2	Bath Mitts & Cloths	Hair Dryers
+1	Bath Mitts & Cloths	Serums
+2	Bath Mitts & Cloths	Bags & Cases
+1	Bath Mitts & Cloths	Eyes
+2	Bath Mitts & Cloths	Hair Cutting Kits
+2	Bath Mitts & Cloths	Glitter & Shimmer
+3	Bath Mitts & Cloths	Cuticle Creams & Oils
+2	Bath Mitts & Cloths	Travel Cases & Holders
+1	Bath Mitts & Cloths	Irons
+1	Bath Mitts & Cloths	Concealer
+1	Bath Mitts & Cloths	Cuticle Removers
+1	Bath Mitts & Cloths	Lips
+1	Bath Mitts & Cloths	Texturizers
+1	Creams	Exfoliators & Scrubs
+1	Creams	Claws
+1	Creams	Microdermabrasion
+1	Creams	Toe Separators
+3	Creams	Night Creams
+1	Creams	Cologne
+1	Creams	Hair Care
+1	Creams	After Sun
+1	Creams	Curlers
+1	Creams	Eyebrow Color
+2	Creams	Bath Pillows
+1	Creams	Ponytail Holders
+1	Creams	Concealer
+1	Creams	Eye Shadow
+2	Creams	Lip Stains
+1	Creams	Tote Bags
+1	Creams	Ridge Filler
+1	Creams	Cotton Balls
+1	Creams	Sets
+1	Color Refreshers	Concealers & Neutralizers
+1	Color Refreshers	Salicylic Acid
+1	Color Refreshers	Rollers & Pens
+1	Color Refreshers	Creams & Moisturizers
+1	Color Refreshers	Toners & Astringents
+2	Color Refreshers	Hair Sprays
+1	Color Refreshers	Growth Formula
+1	Color Refreshers	Microdermabrasion
+2	Color Refreshers	Clips
+2	Color Refreshers	Lipstick
+1	Color Refreshers	Moisturizers
+1	Color Refreshers	Liner & Shadow Combinations
+1	Color Refreshers	Nail Brushes
+1	Color Refreshers	Face Cleansing Brushes
+1	Color Refreshers	Fillers
+1	Color Refreshers	Lip Glosses
+1	Color Refreshers	Nail Files & Buffers
+2	Color Refreshers	Combinations
+5	Color Refreshers	Color Refreshers
+3	Nail Treatments	Hair Regrowth Treatments
+1	Nail Treatments	Eye Shadow
+2	Nail Treatments	Nail Files & Buffers
+2	Nail Treatments	Hair Styling Serums
+1	Nail Treatments	Sunscreens
+1	Nail Treatments	Curlers
+1	Nail Treatments	Braiders
+1	Nail Treatments	Fragrance
+1	Nail Treatments	Tinted Moisturizers
+1	Nail Treatments	Activators
+2	Nail Treatments	Moisturizers
+2	Nail Treatments	Brushes
+1	Nail Treatments	Makeup Palettes
+1	Nail Treatments	Bath Mitts & Cloths
+2	Nail Treatments	Hair Dryers
+1	Nail Treatments	Curling Irons
+2	Nail Treatments	Bath Pillows
+2	Nail Treatments	Nail Polish
+1	Nail Treatments	Bath Trays
+1	Ponytail Holders	Serums
+1	Ponytail Holders	Lipstick
+1	Ponytail Holders	Nail Polish Remover
+1	Ponytail Holders	Nail Files & Buffers
+1	Ponytail Holders	Moisturizing Gloves
+1	Ponytail Holders	Mousses & Foams
+1	Ponytail Holders	Glitter & Shimmer
+1	Ponytail Holders	Hair Styling Serums
+2	Ponytail Holders	Shower Caps
+1	Ponytail Holders	Complexes
+1	Ponytail Holders	Braiders
+1	Ponytail Holders	Decorative Combs
+1	Ponytail Holders	Tanning Oils
+1	Ponytail Holders	Nail Tools
+1	Ponytail Holders	Combs
+1	Ponytail Holders	Color Correctors
+1	Ponytail Holders	Crimping Irons
+1	Ponytail Holders	Hair & Scalp Treatments
+1	Ponytail Holders	Brushes, Combs & Needles
+1	Wigs	Complexes
+1	Wigs	Lip Stains
+1	Wigs	Sets & Kits
+1	Wigs	Day Creams
+1	Wigs	Eau de Parfum
+1	Wigs	Tote Bags
+2	Wigs	Barrettes
+1	Wigs	Brushes, Combs & Needles
+1	Wigs	After Sun
+1	Wigs	Clippers & Trimmers
+1	Wigs	Mirrors
+1	Wigs	Cotton Balls
+1	Wigs	Bronzing Powder
+1	Wigs	Bubble Bath
+1	Wigs	Growth Formula
+1	Wigs	Hand Creams & Lotions
+1	Wigs	Blemish Tools
+1	Wigs	Sunscreens
+1	Wigs	Styling Products
+2	Hair Color Removers	Top & Base Coats
+2	Hair Color Removers	Tools & Accessories
+3	Hair Color Removers	Tinted Moisturizers
+1	Hair Color Removers	Growth Formula
+1	Hair Color Removers	Foundation
+1	Hair Color Removers	Lactic Acid
+1	Hair Color Removers	Toiletry Bags
+1	Hair Color Removers	Braid Maintenance
+3	Hair Color Removers	Hair Dryers
+2	Hair Color Removers	Brushes & Applicators
+1	Hair Color Removers	Mascara
+2	Hair Color Removers	Pore Cleansing Strips
+1	Hair Color Removers	Cloths & Towelettes
+2	Hair Color Removers	Shampoo & Conditioner Sets
+2	Hair Color Removers	Wigs
+2	Hair Color Removers	Moisturizing Gloves
+1	Hair Color Removers	Curling Irons
+2	Hair Color Removers	Cuticle Removers
+1	Hair Color Removers	Soaps
+1	Loofahs, Sponges & Poufs	Concealer
+1	Loofahs, Sponges & Poufs	Home Permanent Kits
+1	Loofahs, Sponges & Poufs	Hand Soaps
+1	Loofahs, Sponges & Poufs	Refillable Containers
+1	Loofahs, Sponges & Poufs	Sets
+1	Loofahs, Sponges & Poufs	Tote Bags
+1	Loofahs, Sponges & Poufs	Face Cleansing Brushes
+1	Loofahs, Sponges & Poufs	Irons
+1	Loofahs, Sponges & Poufs	Cuticle Repair
+2	Loofahs, Sponges & Poufs	Caps, Foils & Wraps
+1	Loofahs, Sponges & Poufs	Cologne
+1	Loofahs, Sponges & Poufs	Crimping Irons
+1	Loofahs, Sponges & Poufs	Complexes
+1	Loofahs, Sponges & Poufs	Sports
+1	Loofahs, Sponges & Poufs	Diffusers
+1	Loofahs, Sponges & Poufs	Salicylic Acid
+2	Loofahs, Sponges & Poufs	Bags & Cases
+1	Loofahs, Sponges & Poufs	Nail Repair
+1	Loofahs, Sponges & Poufs	Chemical Hair Dyes
+2	Body Mud	Cosmetic Bags
+2	Body Mud	Eye Masks
+1	Body Mud	Blemish Tools
+1	Body Mud	Mascara
+1	Body Mud	Salicylic Acid
+1	Body Mud	Loofahs, Sponges & Poufs
+2	Body Mud	Cuticle Creams & Oils
+2	Body Mud	Nail Thickening Solution
+2	Body Mud	Nail Files & Buffers
+3	Body Mud	Body Butter
+1	Body Mud	Combs
+1	Body Mud	Foundation Primers
+1	Body Mud	Self Tanners
+1	Body Mud	Acids & Peels
+1	Body Mud	Sets
+2	Body Mud	Pore Cleansing Strips
+3	Body Mud	Bath & Body
+1	Body Mud	Clips
+4	Body Mud	Body Paint
+1	Women's	Pillows
+1	Women's	Nail Treatments
+1	Women's	Ridge Filler
+1	Women's	Bath Pearls & Flakes
+1	Women's	Lipstick
+1	Women's	Hair Extensions
+1	Women's	Treatments & Masks
+1	Women's	Texturizers
+1	Women's	Combinations
+1	Women's	Eyelash Tools
+1	Women's	Curling Irons
+1	Women's	Hair Color Removers
+1	Women's	Claws
+1	Women's	Microdermabrasion
+1	Women's	Polishes
+1	Women's	Hot-Air Brushes
+1	Women's	Sunscreens
+1	Women's	Eyeliner
+1	Women's	Irons
+1	Lipstick	Curling Irons
+2	Lipstick	Nails
+1	Lipstick	Exfoliators & Scrubs
+1	Lipstick	Brushes & Applicators
+1	Lipstick	Styling Accessories
+2	Lipstick	Nail Whitening
+3	Lipstick	Blush
+1	Lipstick	Polishes
+1	Lipstick	Growth Formula
+1	Lipstick	Eyelash Tools
+1	Lipstick	Acids & Peels
+1	Lipstick	Body Sprays
+1	Lipstick	Bath & Body
+1	Lipstick	Sunscreens
+1	Lipstick	Highlights
+2	Lipstick	Mascara
+2	Lipstick	Scissors
+1	Lipstick	Foundation Primers
+1	Lipstick	Irons
+1	Nail Files & Buffers	Serums
+1	Nail Files & Buffers	Styling Accessories
+2	Nail Files & Buffers	Nail Brushes
+2	Nail Files & Buffers	Nail Polish Remover
+3	Nail Files & Buffers	Brushes & Applicators
+1	Nail Files & Buffers	Body Washes
+1	Nail Files & Buffers	Toe Separators
+1	Nail Files & Buffers	Ponytail Holders
+1	Nail Files & Buffers	Makeup Palettes
+1	Nail Files & Buffers	Makeup Mirrors
+2	Nail Files & Buffers	Fluids & Lotions
+1	Nail Files & Buffers	Eye Shadow
+1	Nail Files & Buffers	Soaps
+1	Nail Files & Buffers	Concealer
+1	Nail Files & Buffers	Tanning Oils
+2	Nail Files & Buffers	Dark Circle Treatments
+3	Nail Files & Buffers	Bags & Cases
+1	Nail Files & Buffers	Bath Trays
+2	Nail Files & Buffers	Hand Soaps
+2	Nails	Nail Art Equipment
+1	Nails	Exfoliators
+1	Nails	Fluids & Lotions
+1	Nails	Brushes & Applicators
+1	Nails	Eye Shadow
+1	Nails	Lotions
+1	Nails	Skin Protection
+5	Nails	Nails
+1	Nails	Cloths & Towelettes
+2	Nails	Hair Dryers
+1	Nails	Caps, Foils & Wraps
+1	Nails	Bars
+1	Nails	Scrubs
+2	Nails	Lipstick Primers
+1	Nails	Body Souffles & Mousse
+1	Nails	Braid Maintenance
+2	Nails	Rollers & Pens
+1	Nails	Bags & Cases
+1	Nails	Shampoo Plus Conditioner
+1	Clips	Fluids
+1	Clips	Loofahs, Sponges & Poufs
+1	Clips	Cologne
+2	Clips	Nail Files & Buffers
+1	Clips	Nail Polish Remover
+1	Clips	Nail Polish
+1	Clips	Liner & Shadow Combinations
+1	Clips	Polishes
+1	Clips	Nail Whitening
+1	Clips	Brushes
+1	Clips	Hair Loss Products
+1	Clips	Bubble Bath
+1	Clips	Top & Base Coats
+1	Clips	Bath Pearls & Flakes
+1	Clips	Nail Art
+1	Clips	Hair Sticks
+1	Clips	Treatments & Masks
+1	Clips	Fillers
+1	Clips	Body Scrubs
+1	Complexes	Blotting Paper
+1	Complexes	Shower Mirrors
+1	Complexes	Mascara
+1	Complexes	Alpha Beta
+1	Complexes	Makeup Palettes
+1	Complexes	Sharpeners
+1	Complexes	Polishes
+1	Complexes	Fillers
+1	Complexes	Sports
+1	Complexes	Nail Polish Remover
+1	Complexes	Color Correctors
+1	Complexes	Minerals & Salts
+1	Complexes	False Nails
+1	Complexes	Flattening Irons
+1	Complexes	Activators
+1	Complexes	Day Creams
+1	Complexes	Liner & Shadow Combinations
+1	Complexes	Brushes & Applicators
+1	Complexes	Bath Trays
+1	Barrettes	Pomades & Waxes
+1	Barrettes	Nail Strengthening
+1	Barrettes	Nail Dryers
+1	Barrettes	Cologne
+1	Barrettes	Lotions
+1	Barrettes	Skin Protection
+1	Barrettes	Toners & Astringents
+1	Barrettes	Combinations
+1	Barrettes	Shower Caps
+1	Barrettes	Oils & Serums
+1	Barrettes	Ridge Filler
+1	Barrettes	Styling Accessories
+1	Barrettes	Nail Polish
+1	Barrettes	Fluids & Lotions
+1	Barrettes	Brush Bags
+1	Barrettes	Bath Pearls & Flakes
+1	Barrettes	Gels
+1	Barrettes	Pillows
+1	Barrettes	Complexes
+1	Sunscreens	Headbands
+1	Sunscreens	Top & Base Coats
+2	Sunscreens	Creams
+1	Sunscreens	Flattening Irons
+1	Sunscreens	Ponytail Holders
+1	Sunscreens	Blush
+1	Sunscreens	Concealer
+1	Sunscreens	Makeup Sets
+1	Sunscreens	Shower Caps
+1	Sunscreens	Body Sprays
+1	Sunscreens	Washes
+1	Sunscreens	Foundation Primers
+1	Sunscreens	Creams & Moisturizers
+1	Sunscreens	Eyeliner
+1	Sunscreens	Hair Sprays
+1	Sunscreens	Lips
+1	Sunscreens	Curling Irons
+1	Sunscreens	Essential Oils
+1	Sunscreens	Toiletry Bags
+1	Nail Art	Headbands
+2	Nail Art	Hair Pins
+1	Nail Art	Fluids & Lotions
+1	Nail Art	Lip Plumpers
+1	Nail Art	Creams
+1	Nail Art	Oils & Serums
+1	Nail Art	Pillows
+1	Nail Art	Lip Stains
+2	Nail Art	Styling Accessories
+1	Nail Art	Tanning Oils
+1	Nail Art	Sunscreens
+1	Nail Art	Cuticle Removers
+2	Nail Art	Cosmetic Bags
+2	Nail Art	Hair Care
+2	Nail Art	Mirrors
+1	Nail Art	Cologne
+1	Nail Art	Self-Tanners & Bronzers
+2	Nail Art	Brushes & Applicators
+1	Nail Art	Combs
+1	Spa Slippers	Texturizers
+1	Spa Slippers	Train Cases
+1	Spa Slippers	Powder
+1	Spa Slippers	Conditioners
+1	Spa Slippers	Eyes
+1	Spa Slippers	Irons
+1	Spa Slippers	Lipstick
+1	Spa Slippers	Hot-Air Brushes
+1	Spa Slippers	Curling Irons
+2	Spa Slippers	Scrubs & Body Treatments
+1	Spa Slippers	Nail Thickening Solution
+2	Spa Slippers	Fake Eyelashes & Adhesives
+1	Spa Slippers	Lactic Acid
+1	Spa Slippers	Lip Glosses
+1	Spa Slippers	Nail Art
+1	Spa Slippers	Hair Care
+1	Spa Slippers	Fillers
+1	Spa Slippers	Cleansers
+2	Spa Slippers	Bath Brushes
+1	Mirrors	Hand Soaps
+1	Mirrors	Bubble Bath
+1	Mirrors	Microdermabrasion
+2	Mirrors	Eyes
+1	Mirrors	Caps, Foils & Wraps
+2	Mirrors	Nail Brushes
+1	Mirrors	Makeup
+2	Mirrors	Nail Art Equipment
+1	Mirrors	Salicylic Acid
+1	Mirrors	Cuticle Creams & Oils
+1	Mirrors	Nail Polish Remover
+1	Mirrors	Growth Formula
+2	Mirrors	Rollers & Pens
+1	Mirrors	Fake Eyelashes & Adhesives
+1	Mirrors	Lip Glosses
+2	Mirrors	Hair Dryers
+2	Mirrors	Eye Masks
+1	Mirrors	Home Permanent Kits
+1	Mirrors	Headbands
+1	Nail Strengthening	Caps, Foils & Wraps
+1	Nail Strengthening	Hair Color
+1	Nail Strengthening	Hair Styling Serums
+1	Nail Strengthening	Washes
+1	Nail Strengthening	Cuticle Removers
+1	Nail Strengthening	Body Souffles & Mousse
+1	Nail Strengthening	Hair Extensions
+1	Nail Strengthening	Masks
+1	Nail Strengthening	Lip Glosses
+1	Nail Strengthening	Hennas
+1	Nail Strengthening	Curling Irons
+1	Nail Strengthening	Powder
+1	Nail Strengthening	Hot-Air Brushes
+1	Nail Strengthening	Shampoo Plus Conditioner
+2	Nail Strengthening	Body
+1	Nail Strengthening	Shower Mirrors
+1	Nail Strengthening	Essential Oils
+1	Nail Strengthening	Tools & Accessories
+1	Nail Strengthening	Fillers
+1	Body Scrubs	Women's
+1	Body Scrubs	Bath
+1	Body Scrubs	Tanning Oils
+2	Body Scrubs	Hair Rollers
+1	Body Scrubs	Mascara
+2	Body Scrubs	Foot Rasps
+2	Body Scrubs	Fluids & Lotions
+2	Body Scrubs	Nails
+1	Body Scrubs	Cuticle Pushers
+1	Body Scrubs	Nail Dryers
+1	Body Scrubs	Glycolic Acid
+2	Body Scrubs	Day Creams
+1	Body Scrubs	Claws
+2	Body Scrubs	Makeup Sets
+1	Body Scrubs	Bronzing Powder
+1	Body Scrubs	Sets
+1	Body Scrubs	Serums
+1	Body Scrubs	Curling Irons
+1	Body Scrubs	Barrettes
+1	Headbands	Scissors
+1	Headbands	Nail Files & Buffers
+1	Headbands	Body
+1	Headbands	Bags & Cases
+2	Headbands	Barrettes
+1	Headbands	Braid Maintenance
+1	Headbands	Growth Formula
+1	Headbands	Body Washes
+1	Headbands	Color Refreshers
+1	Headbands	Color Correctors
+1	Headbands	Applicator Bottles
+1	Headbands	Combinations
+1	Headbands	Ridge Filler
+1	Headbands	Tanning Oils
+1	Headbands	Minerals & Salts
+1	Headbands	Complexes
+1	Headbands	Blush
+1	Headbands	Cuticle Removers
+1	Headbands	Bronzing Powder
+1	Oils & Serums	Body Scrubs
+2	Oils & Serums	Styling Products
+3	Oils & Serums	Self-Tanners & Bronzers
+3	Oils & Serums	Bath Pearls & Flakes
+2	Oils & Serums	Brushes, Combs & Needles
+2	Oils & Serums	Hair Styling Serums
+3	Oils & Serums	Pomades & Waxes
+1	Oils & Serums	Headbands
+1	Oils & Serums	Nail Polish Remover
+1	Oils & Serums	Eau de Toilette
+3	Oils & Serums	Body Souffles & Mousse
+1	Oils & Serums	Eyebrow Color
+3	Oils & Serums	Rollers & Pens
+1	Oils & Serums	Curling Irons
+1	Oils & Serums	Ridge Filler
+1	Oils & Serums	Toe Separators
+4	Oils & Serums	Cuticle Creams & Oils
+1	Oils & Serums	Moisturizing Gloves
+1	Oils & Serums	Blush
+1	Makeup Sets	Creams & Moisturizers
+1	Makeup Sets	After Sun
+1	Makeup Sets	Fluids & Lotions
+2	Makeup Sets	Styling Tools
+2	Makeup Sets	Face Cleansing Brushes
+1	Makeup Sets	Bronzers & Highlighters
+2	Makeup Sets	Body Scrubs
+2	Makeup Sets	Hair Care
+2	Makeup Sets	Nail Treatments
+1	Makeup Sets	Body Mud
+3	Makeup Sets	Sets & Kits
+1	Makeup Sets	Crimping Irons
+2	Makeup Sets	Top & Base Coats
+2	Makeup Sets	Nail Art Equipment
+1	Makeup Sets	Bath Pillows
+1	Makeup Sets	Lip Glosses
+1	Makeup Sets	Serums
+2	Makeup Sets	Brush Bags
+1	Makeup Sets	Blush
+1	Hair Color	Lactic Acid
+2	Hair Color	Sun
+1	Hair Color	Curl Enhancers
+1	Hair Color	Train Cases
+1	Hair Color	Loofahs, Sponges & Poufs
+2	Hair Color	Concealer & Base
+1	Hair Color	Nails
+4	Hair Color	Hair Extensions
+1	Hair Color	Cuticle Removers
+2	Hair Color	Brushes
+2	Hair Color	Nail Art Equipment
+1	Hair Color	Eyeliner
+1	Hair Color	Lip Glosses
+2	Hair Color	Nail Thickening Solution
+2	Hair Color	Styling Products
+2	Hair Color	Brushes, Combs & Needles
+1	Hair Color	Glycolic Acid
+2	Hair Color	Styling Accessories
+1	Hair Color	Toe Separators
+2	Nail Tools	Body Butter
+1	Nail Tools	Cleansers
+2	Nail Tools	Makeup Sets
+2	Nail Tools	Tanning Oils
+1	Nail Tools	Eau de Parfum
+1	Nail Tools	Combs
+1	Nail Tools	Sunscreens
+2	Nail Tools	Bath & Body
+2	Nail Tools	Hair Drying Towels
+3	Nail Tools	Nail Whitening
+2	Nail Tools	Caps, Foils & Wraps
+2	Nail Tools	Body Souffles & Mousse
+2	Nail Tools	Hand Soaps
+2	Nail Tools	Cosmetic Bags
+1	Nail Tools	Lip Glosses
+3	Nail Tools	Nail Repair
+2	Nail Tools	Hair & Scalp Treatments
+1	Nail Tools	Concealer
+1	Nail Tools	Minerals & Salts
+1	Brush Bags	Sunscreens
+1	Brush Bags	Cologne
+2	Brush Bags	Hand Soaps
+2	Brush Bags	Nail Tools
+1	Brush Bags	Combinations
+3	Brush Bags	Hair Drying Towels
+2	Brush Bags	Makeup Mirrors
+1	Brush Bags	Color Correctors
+1	Brush Bags	Creams & Moisturizers
+3	Brush Bags	Nail Brushes
+1	Brush Bags	Sun
+2	Brush Bags	Nail Thickening Solution
+2	Brush Bags	Bubble Bath
+1	Brush Bags	Hot-Air Brushes
+1	Brush Bags	Eyelash Tools
+2	Brush Bags	Nail Repair
+1	Brush Bags	Maternity
+1	Brush Bags	Mirrors
+2	Brush Bags	Brushes
+1	Highlights	Nail Polish
+1	Highlights	Bath Trays
+1	Highlights	Tinted Moisturizers
+1	Highlights	Bath Pearls & Flakes
+1	Highlights	Pore Cleansing Strips
+1	Highlights	Nail Art
+1	Highlights	Hair Sticks
+1	Highlights	Brushes & Applicators
+2	Highlights	Sports
+1	Highlights	Lipstick Primers
+1	Highlights	Oils & Serums
+1	Highlights	Paraffin Baths
+1	Highlights	Washes
+1	Highlights	Hair Cutting Kits
+1	Highlights	Blemish Tools
+1	Highlights	Hair Loss Products
+1	Highlights	Scrubs & Body Treatments
+1	Highlights	Nail Brushes
+1	Highlights	Scrubs
+1	Dark Circle Treatments	Fake Eyelashes & Adhesives
+2	Dark Circle Treatments	After Sun
+2	Dark Circle Treatments	Bath Bombs
+1	Dark Circle Treatments	Glycolic Acid
+1	Dark Circle Treatments	Crimping Irons
+1	Dark Circle Treatments	Moisturizers
+2	Dark Circle Treatments	Train Cases
+1	Dark Circle Treatments	Pillows
+3	Dark Circle Treatments	Hair Loss Products
+2	Dark Circle Treatments	Tools & Accessories
+1	Dark Circle Treatments	Irons
+1	Dark Circle Treatments	Eau de Parfum
+2	Dark Circle Treatments	Top & Base Coats
+1	Dark Circle Treatments	Barrettes
+1	Dark Circle Treatments	Highlights
+2	Dark Circle Treatments	Home Permanent Kits
+1	Dark Circle Treatments	Toners & Astringents
+1	Dark Circle Treatments	Eyeliner
+1	Dark Circle Treatments	Retinol
+1	Blush	Lactic Acid
+1	Blush	Headbands
+1	Blush	Glycolic Acid
+1	Blush	Cuticle Pushers
+1	Blush	Acids & Peels
+1	Blush	Shampoo Plus Conditioner
+1	Blush	Maternity
+1	Blush	Styling Tools
+1	Blush	Polishes
+1	Blush	Growth Formula
+1	Blush	Sports
+1	Blush	Texturizers
+1	Blush	Bath Trays
+1	Blush	Lip Glosses
+1	Blush	Hair Styling Serums
+1	Blush	Hand Creams & Lotions
+1	Blush	Eau de Parfum
+1	Blush	Diffusers
+1	Blush	Bath Mitts & Cloths
+1	Eau de Toilette	Home Permanent Kits
+1	Eau de Toilette	Minerals & Salts
+1	Eau de Toilette	Bath
+1	Eau de Toilette	Brushes, Combs & Needles
+1	Eau de Toilette	Bath Pillows
+1	Eau de Toilette	Body Sprays
+1	Eau de Toilette	Self Tanners
+1	Eau de Toilette	Bronzing Powder
+1	Eau de Toilette	Puffiness Treatments
+1	Eau de Toilette	Braiders
+1	Eau de Toilette	Pore Cleansing Strips
+1	Eau de Toilette	Pomades & Waxes
+1	Eau de Toilette	Bath & Body
+1	Eau de Toilette	Hairpieces
+1	Eau de Toilette	Bubble Bath
+1	Eau de Toilette	Blush
+1	Eau de Toilette	Bars
+1	Eau de Toilette	Foot Rasps
+1	Eau de Toilette	Glitter & Shimmer
+1	Cloths & Towelettes	Hair Sticks
+2	Cloths & Towelettes	Lotions
+1	Cloths & Towelettes	Hair Color
+1	Cloths & Towelettes	Lip Glosses
+1	Cloths & Towelettes	Glycolic Acid
+1	Cloths & Towelettes	Nail Polish
+1	Cloths & Towelettes	Soaps
+2	Cloths & Towelettes	Nail Brushes
+1	Cloths & Towelettes	Shower Mirrors
+2	Cloths & Towelettes	Minerals & Salts
+1	Cloths & Towelettes	Brushes
+1	Cloths & Towelettes	Complexes
+1	Cloths & Towelettes	Blush
+1	Cloths & Towelettes	Body Butter
+1	Cloths & Towelettes	Decorative Combs
+1	Cloths & Towelettes	Cleansers
+1	Cloths & Towelettes	Body Washes
+4	Cloths & Towelettes	Bath Mitts & Cloths
+2	Cloths & Towelettes	Glitter & Shimmer
+1	Nail Brushes	Toners & Astringents
+1	Nail Brushes	Top & Base Coats
+2	Nail Brushes	False Nails
+1	Nail Brushes	Fillers
+1	Nail Brushes	Train Cases
+3	Nail Brushes	Nail Tools
+2	Nail Brushes	Blotting Paper
+2	Nail Brushes	Body Sprays
+2	Nail Brushes	Polishes
+1	Nail Brushes	Blush
+2	Nail Brushes	Bath Pearls & Flakes
+2	Nail Brushes	Body Paint
+2	Nail Brushes	Bath Mitts & Cloths
+1	Nail Brushes	Home Permanent Kits
+1	Nail Brushes	Exfoliators & Scrubs
+1	Nail Brushes	Braid Maintenance
+1	Nail Brushes	Salicylic Acid
+2	Nail Brushes	Shower Mirrors
+1	Nail Brushes	Lip Plumpers
+1	Texturizers	Blush
+1	Texturizers	Styling Accessories
+1	Texturizers	Nail Repair
+1	Texturizers	Loofahs, Sponges & Poufs
+1	Texturizers	Styling Products
+1	Texturizers	Bronzing Powder
+1	Texturizers	Barrettes
+1	Texturizers	Cuticle Creams & Oils
+1	Texturizers	Oils
+1	Texturizers	Self Tanners
+1	Texturizers	Pore Cleansing Strips
+1	Texturizers	Scrubs
+1	Texturizers	Essential Oils
+1	Texturizers	Gels
+1	Texturizers	Travel Cases & Holders
+1	Texturizers	Fluids & Lotions
+1	Texturizers	Nail Thickening Solution
+1	Texturizers	Lipstick Primers
+1	Texturizers	Texturizers
+1	Activators	Irons
+1	Activators	Bags & Cases
+1	Activators	Makeup Mirrors
+1	Activators	Day Creams
+1	Activators	Travel Cases & Holders
+1	Activators	Hand Creams & Lotions
+1	Activators	Eau de Parfum
+1	Activators	Sets & Kits
+1	Activators	Sunscreens
+1	Activators	Polishes
+5	Activators	Activators
+1	Activators	Rollers & Pens
+1	Activators	Foundation Primers
+1	Activators	Masks
+1	Activators	Acids & Peels
+1	Activators	Foot Rasps
+1	Activators	Hair Styling Serums
+1	Activators	Concealer
+1	Activators	Nail Art
+1	Puffs, Sponges & Wedges	Barrettes
+1	Puffs, Sponges & Wedges	Lip Liners
+2	Puffs, Sponges & Wedges	Self-Tanners & Bronzers
+1	Puffs, Sponges & Wedges	Brushes
+1	Puffs, Sponges & Wedges	Blush
+2	Puffs, Sponges & Wedges	Body Butter
+1	Puffs, Sponges & Wedges	Night Creams
+1	Puffs, Sponges & Wedges	Self Tanners
+1	Puffs, Sponges & Wedges	Nail Treatments
+2	Puffs, Sponges & Wedges	Sets & Kits
+1	Puffs, Sponges & Wedges	Hennas
+2	Puffs, Sponges & Wedges	Bath Trays
+1	Puffs, Sponges & Wedges	Diffusers
+2	Puffs, Sponges & Wedges	Bags & Cases
+1	Puffs, Sponges & Wedges	Lipstick
+2	Puffs, Sponges & Wedges	Hair Rollers
+2	Puffs, Sponges & Wedges	Caps, Foils & Wraps
+2	Puffs, Sponges & Wedges	Braid Maintenance
+1	Puffs, Sponges & Wedges	Body
+1	Cuticle Repair	Spa Slippers
+2	Cuticle Repair	Lip Stains
+2	Cuticle Repair	Body Paint
+1	Cuticle Repair	Body
+1	Cuticle Repair	Puffs, Sponges & Wedges
+2	Cuticle Repair	Cosmetic Bags
+1	Cuticle Repair	Nail Polish Remover
+1	Cuticle Repair	Acids & Peels
+1	Cuticle Repair	Exfoliators & Scrubs
+2	Cuticle Repair	Nail Thickening Solution
+1	Cuticle Repair	Foot Rasps
+1	Cuticle Repair	Irons
+1	Cuticle Repair	Self Tanners
+1	Cuticle Repair	Mascara
+5	Cuticle Repair	Cuticle Repair
+2	Cuticle Repair	Hair Dryers
+1	Cuticle Repair	Clips
+1	Cuticle Repair	Hairpieces
+1	Cuticle Repair	Applicator Bottles
+1	Nail Whitening	Hair Care
+1	Nail Whitening	Braid Maintenance
+1	Nail Whitening	Salicylic Acid
+1	Nail Whitening	Hennas
+1	Nail Whitening	Treatments & Masks
+1	Nail Whitening	Braiders
+1	Nail Whitening	Self-Tanners & Bronzers
+2	Nail Whitening	Nail Art Equipment
+1	Nail Whitening	Activators
+2	Nail Whitening	Makeup Mirrors
+1	Nail Whitening	Bags & Cases
+2	Nail Whitening	Cuticle Pushers
+1	Nail Whitening	Oils
+2	Nail Whitening	Eyebrow Color
+3	Nail Whitening	Nail Treatments
+1	Nail Whitening	Lotions
+2	Nail Whitening	Creams
+1	Nail Whitening	Body Scrubs
+1	Nail Whitening	Women's
+1	Clippers & Trimmers	Spa Slippers
+1	Clippers & Trimmers	Lip Liners
+1	Clippers & Trimmers	Activators
+1	Clippers & Trimmers	Styling Tools
+1	Clippers & Trimmers	Pillows
+1	Clippers & Trimmers	Puffiness Treatments
+1	Clippers & Trimmers	Braid Maintenance
+1	Clippers & Trimmers	Face Cleansing Brushes
+2	Clippers & Trimmers	Bags & Cases
+2	Clippers & Trimmers	Minerals & Salts
+2	Clippers & Trimmers	Self-Tanners & Bronzers
+1	Clippers & Trimmers	Polishes
+1	Clippers & Trimmers	Growth Formula
+5	Clippers & Trimmers	Clippers & Trimmers
+2	Clippers & Trimmers	Caps, Foils & Wraps
+1	Clippers & Trimmers	Diffusers
+1	Clippers & Trimmers	Bubble Bath
+1	Clippers & Trimmers	Nail Treatments
+1	Clippers & Trimmers	Maternity
+1	Concealer & Base	Color Refreshers
+1	Concealer & Base	Fillers
+1	Concealer & Base	Pillows
+1	Concealer & Base	Nail Treatments
+1	Concealer & Base	Styling Products
+1	Concealer & Base	Bath
+1	Concealer & Base	Combs
+1	Concealer & Base	Oils
+2	Concealer & Base	Braid Maintenance
+1	Concealer & Base	Toiletry Bags
+1	Concealer & Base	Hair Color Removers
+1	Concealer & Base	Body Washes
+1	Concealer & Base	Microdermabrasion
+2	Concealer & Base	Nail Repair
+1	Concealer & Base	Nail Dryers
+1	Concealer & Base	Pore Cleansing Strips
+3	Concealer & Base	Tools & Accessories
+1	Concealer & Base	Flattening Irons
+2	Concealer & Base	Shampoo & Conditioner Sets
+1	Hair Rollers	Pomades & Waxes
+2	Hair Rollers	Pore Cleansing Strips
+2	Hair Rollers	Dark Circle Treatments
+1	Hair Rollers	Paraffin Baths
+1	Hair Rollers	Essential Oils
+3	Hair Rollers	Hair Sprays
+2	Hair Rollers	False Nails
+1	Hair Rollers	Bars
+1	Hair Rollers	Glycolic Acid
+2	Hair Rollers	Tools & Accessories
+2	Hair Rollers	Barrettes
+1	Hair Rollers	Fillers
+3	Hair Rollers	Body Paint
+1	Hair Rollers	Home Permanent Kits
+1	Hair Rollers	Tanning Oils
+1	Hair Rollers	Nail Strengthening
+1	Hair Rollers	Activators
+1	Hair Rollers	Lactic Acid
+1	Hair Rollers	Polishes
+3	Toiletry Bags	Brush Bags
+1	Toiletry Bags	Ridge Filler
+1	Toiletry Bags	Exfoliators & Scrubs
+1	Toiletry Bags	Blemish Tools
+1	Toiletry Bags	Sets
+2	Toiletry Bags	Masks
+1	Toiletry Bags	Cloths & Towelettes
+1	Toiletry Bags	Ponytail Holders
+1	Toiletry Bags	Hairpieces
+1	Toiletry Bags	Fluids & Lotions
+1	Toiletry Bags	Makeup Palettes
+1	Toiletry Bags	Pomades & Waxes
+1	Toiletry Bags	Body Scrubs
+1	Toiletry Bags	Cleansers
+2	Toiletry Bags	Nail Whitening
+1	Toiletry Bags	Hair Regrowth Treatments
+1	Toiletry Bags	Puffs, Sponges & Wedges
+1	Toiletry Bags	Travel Cases & Holders
+1	Toiletry Bags	Growth Formula
+1	Cuticle Pushers	Blotting Paper
+1	Cuticle Pushers	Creams, Gels & Lotions
+1	Cuticle Pushers	Hair Extensions
+1	Cuticle Pushers	Hair Dryers
+1	Cuticle Pushers	Top & Base Coats
+1	Cuticle Pushers	Crimping Irons
+1	Cuticle Pushers	After Sun
+1	Cuticle Pushers	Face Cleansing Brushes
+1	Cuticle Pushers	Bath Bombs
+1	Cuticle Pushers	Hairpieces
+1	Cuticle Pushers	Brushes
+1	Cuticle Pushers	Braid Maintenance
+1	Cuticle Pushers	Toiletry Bags
+1	Cuticle Pushers	Lip Liners
+1	Cuticle Pushers	Hair Regrowth Treatments
+1	Cuticle Pushers	Soaps
+1	Cuticle Pushers	Hand Creams & Lotions
+1	Cuticle Pushers	Concealers & Neutralizers
+1	Cuticle Pushers	Rollers & Pens
+1	Hennas	Activators
+1	Hennas	Exfoliators & Scrubs
+1	Hennas	Lotions
+1	Hennas	Alpha Beta
+1	Hennas	Nail Thickening Solution
+1	Hennas	Loofahs, Sponges & Poufs
+1	Hennas	Complexes
+1	Hennas	Headbands
+1	Hennas	Scissors
+1	Hennas	Bronzing Powder
+1	Hennas	Hair Care
+1	Hennas	Salicylic Acid
+1	Hennas	Rollers & Pens
+1	Hennas	Irons
+1	Hennas	Hair Extensions
+1	Hennas	Train Cases
+1	Hennas	Cologne
+1	Hennas	Bath Pearls & Flakes
+1	Hennas	Combinations
+1	Flattening Irons	Lipstick Primers
+1	Flattening Irons	Treatments & Masks
+1	Flattening Irons	Nail Treatments
+1	Flattening Irons	Skin Protection
+1	Flattening Irons	Masks
+1	Flattening Irons	Claws
+1	Flattening Irons	Combinations
+1	Flattening Irons	Spa Slippers
+2	Flattening Irons	Hair Pins
+3	Flattening Irons	Curling Irons
+1	Flattening Irons	Hair Loss Products
+1	Flattening Irons	Brushes, Combs & Needles
+1	Flattening Irons	Toners & Astringents
+1	Flattening Irons	Glitter & Shimmer
+1	Flattening Irons	Body Butter
+1	Flattening Irons	Pillows
+1	Flattening Irons	Texturizers
+1	Flattening Irons	Sun
+1	Flattening Irons	Lactic Acid
+1	Bath Trays	Makeup Sets
+1	Bath Trays	Self Tanners
+1	Bath Trays	Essential Oils
+1	Bath Trays	Sets
+1	Bath Trays	Clippers & Trimmers
+1	Bath Trays	Self-Tanners & Bronzers
+1	Bath Trays	Sun
+1	Bath Trays	Exfoliators & Scrubs
+2	Bath Trays	Fluids & Lotions
+1	Bath Trays	Nail Strengthening
+1	Bath Trays	Wigs
+1	Bath Trays	Hair Sticks
+1	Bath Trays	Hair Care
+1	Bath Trays	Hot-Air Brushes
+3	Bath Trays	Bubble Bath
+2	Bath Trays	Scrubs & Body Treatments
+1	Bath Trays	Eau de Parfum
+1	Bath Trays	Body
+1	Bath Trays	Foot Rasps
+1	Microdermabrasion	Cuticle Removers
+1	Microdermabrasion	Body Sprays
+1	Microdermabrasion	Sharpeners
+1	Microdermabrasion	Bags & Cases
+1	Microdermabrasion	Bars
+1	Microdermabrasion	Body
+1	Microdermabrasion	Scrubs & Body Treatments
+1	Microdermabrasion	Blemish Tools
+1	Microdermabrasion	Hair Color
+1	Microdermabrasion	Bath Pillows
+1	Microdermabrasion	Makeup Sets
+1	Microdermabrasion	Bronzers & Highlighters
+1	Microdermabrasion	Bath & Body
+1	Microdermabrasion	Eau de Toilette
+1	Microdermabrasion	Train Cases
+1	Microdermabrasion	Tools & Accessories
+1	Microdermabrasion	Temporary Tattoos
+1	Microdermabrasion	Toiletry Bags
+1	Microdermabrasion	Hennas
+1	Fragrance	Eye Masks
+1	Fragrance	Refillable Containers
+1	Fragrance	Nail Strengthening
+2	Fragrance	Creams, Gels & Lotions
+1	Fragrance	Face
+1	Fragrance	Diffusers
+1	Fragrance	Clips
+1	Fragrance	Nail Tools
+1	Fragrance	Shower Caps
+1	Fragrance	Bath Brushes
+1	Fragrance	Bath Pillows
+1	Fragrance	Lip Glosses
+2	Fragrance	Fake Eyelashes & Adhesives
+1	Fragrance	Hair Loss Products
+1	Fragrance	Tools & Accessories
+1	Fragrance	Scrubs
+1	Fragrance	Cologne
+1	Fragrance	Shampoos
+1	Fragrance	Sunscreens
+1	Puffiness Treatments	Ridge Filler
+1	Puffiness Treatments	Polishes
+1	Puffiness Treatments	Gels
+1	Puffiness Treatments	Minerals & Salts
+2	Puffiness Treatments	Hair Dryers
+1	Puffiness Treatments	Bath & Body
+1	Puffiness Treatments	Foundation
+1	Puffiness Treatments	Makeup Sets
+1	Puffiness Treatments	Train Cases
+1	Puffiness Treatments	Concealer & Base
+1	Puffiness Treatments	Loofahs, Sponges & Poufs
+2	Puffiness Treatments	Night Creams
+1	Puffiness Treatments	Complexes
+2	Puffiness Treatments	Fluids & Lotions
+2	Puffiness Treatments	Nail Thickening Solution
+1	Puffiness Treatments	Wigs
+2	Puffiness Treatments	Eyelash Tools
+1	Puffiness Treatments	Soaps
+1	Puffiness Treatments	Cloths & Towelettes
+1	Washes	Maternity
+1	Washes	Curlers
+1	Washes	Lip Liners
+1	Washes	Cloths & Towelettes
+1	Washes	Fragrance
+1	Washes	Body Scrubs
+1	Washes	Retinol
+2	Washes	Brushes
+1	Washes	Travel Cases & Holders
+1	Washes	Combinations
+1	Washes	Complexes
+1	Washes	Hair & Scalp Treatments
+1	Washes	Concealer & Base
+1	Washes	Hair Cutting Kits
+1	Washes	Eye Masks
+1	Washes	Fake Eyelashes & Adhesives
+1	Washes	Puffs, Sponges & Wedges
+1	Washes	Essential Oils
+1	Washes	Scrubs & Body Treatments
+1	Sports	Mirrors
+1	Sports	Hand Creams & Lotions
+1	Sports	Dark Circle Treatments
+1	Sports	Refillable Containers
+1	Sports	Self Tanners
+1	Sports	Blemish Tools
+1	Sports	Hair Styling Serums
+1	Sports	Foot Rasps
+1	Sports	Brushes & Applicators
+1	Sports	Women's
+1	Sports	Lip Glosses
+1	Sports	Blush
+1	Sports	Combs
+1	Sports	Blotting Paper
+1	Sports	Puffs, Sponges & Wedges
+1	Sports	Mousses & Foams
+1	Sports	Bronzing Powder
+1	Sports	Fluids & Lotions
+1	Sports	Bath Pearls & Flakes
+1	Travel Cases & Holders	Soaps
+1	Travel Cases & Holders	Sharpeners
+2	Travel Cases & Holders	Eye Masks
+2	Travel Cases & Holders	Face Cleansing Brushes
+2	Travel Cases & Holders	Body Butter
+1	Travel Cases & Holders	Tanning Oils
+1	Travel Cases & Holders	Nail Whitening
+1	Travel Cases & Holders	Texturizers
+1	Travel Cases & Holders	Hair Regrowth Treatments
+2	Travel Cases & Holders	Brush Bags
+1	Travel Cases & Holders	Curling Irons
+1	Travel Cases & Holders	Alpha Beta
+1	Travel Cases & Holders	Moisturizers
+1	Travel Cases & Holders	Braiders
+1	Travel Cases & Holders	Cologne
+2	Travel Cases & Holders	Nail Files & Buffers
+1	Travel Cases & Holders	Bath Brushes
+1	Travel Cases & Holders	Retinol
+1	Travel Cases & Holders	Creams
+1	Curling Irons	Soaps
+1	Curling Irons	Styling Accessories
+1	Curling Irons	Ridge Filler
+1	Curling Irons	Paraffin Baths
+1	Curling Irons	Lactic Acid
+2	Curling Irons	Scissors
+1	Curling Irons	Lipstick
+1	Curling Irons	Clips
+1	Curling Irons	Home Permanent Kits
+1	Curling Irons	Bath
+1	Curling Irons	Bath Bombs
+1	Curling Irons	Skin Care
+1	Curling Irons	Oils
+1	Curling Irons	Cuticle Repair
+1	Curling Irons	Toe Separators
+1	Curling Irons	Minerals & Salts
+1	Curling Irons	Lip Stains
+1	Curling Irons	Color Correctors
+1	Curling Irons	Glycolic Acid
+1	Makeup Palettes	Nail Art Equipment
+1	Makeup Palettes	Hair & Scalp Treatments
+1	Makeup Palettes	Refillable Containers
+1	Makeup Palettes	Gels
+2	Makeup Palettes	Brush Bags
+1	Makeup Palettes	Washes
+1	Makeup Palettes	Brushes & Applicators
+1	Makeup Palettes	Eau de Toilette
+1	Makeup Palettes	Hair Sticks
+1	Makeup Palettes	Bath Bombs
+1	Makeup Palettes	Bath & Body
+2	Makeup Palettes	Fragrance
+2	Makeup Palettes	Brushes
+1	Makeup Palettes	Polishes
+2	Makeup Palettes	Nail Brushes
+1	Makeup Palettes	Day Creams
+1	Makeup Palettes	Blush
+1	Makeup Palettes	Curling Irons
+1	Makeup Palettes	Body Washes
+1	Conditioners	Body Washes
+1	Conditioners	Claws
+1	Conditioners	Barrettes
+1	Conditioners	Cuticle Removers
+1	Conditioners	Bath Pearls & Flakes
+2	Conditioners	Soaps
+1	Conditioners	Makeup Mirrors
+1	Conditioners	Eyelash Tools
+1	Conditioners	Fillers
+1	Conditioners	Tools & Accessories
+1	Conditioners	Paraffin Baths
+2	Conditioners	Masks
+1	Conditioners	Hair & Scalp Treatments
+1	Conditioners	Eye Shadow
+1	Conditioners	Body Butter
+1	Conditioners	Scrubs
+1	Conditioners	Wigs
+1	Conditioners	Styling Tools
+1	Conditioners	Lip Plumpers
+1	Bath Pearls & Flakes	Combs
+1	Bath Pearls & Flakes	Refillable Containers
+1	Bath Pearls & Flakes	Curl Enhancers
+1	Bath Pearls & Flakes	Blotting Paper
+1	Bath Pearls & Flakes	Nail Strengthening
+3	Bath Pearls & Flakes	Treatments & Masks
+1	Bath Pearls & Flakes	Moisturizing Gloves
+1	Bath Pearls & Flakes	Color Correctors
+3	Bath Pearls & Flakes	Shampoo & Conditioner Sets
+2	Bath Pearls & Flakes	Shower Caps
+1	Bath Pearls & Flakes	Texturizers
+2	Bath Pearls & Flakes	Nail Brushes
+2	Bath Pearls & Flakes	Creams
+2	Bath Pearls & Flakes	Shampoo Plus Conditioner
+2	Bath Pearls & Flakes	Body Paint
+2	Bath Pearls & Flakes	Hand Soaps
+3	Bath Pearls & Flakes	Oils & Serums
+3	Bath Pearls & Flakes	Minerals & Salts
+2	Bath Pearls & Flakes	Brush Bags
+1	Acids & Peels	Eyes
+1	Acids & Peels	Makeup Sets
+1	Acids & Peels	Hair Dryers
+2	Acids & Peels	Sets & Kits
+2	Acids & Peels	Nails
+1	Acids & Peels	Home Permanent Kits
+1	Acids & Peels	Nail Repair
+2	Acids & Peels	Tanning Oils
+1	Acids & Peels	Tinted Moisturizers
+2	Acids & Peels	Hair Color
+1	Acids & Peels	Mascara
+1	Acids & Peels	Lotions
+2	Acids & Peels	Glitter & Shimmer
+3	Acids & Peels	Oils & Serums
+1	Acids & Peels	Lipstick Primers
+1	Acids & Peels	Applicator Bottles
+1	Acids & Peels	Conditioners
+1	Acids & Peels	Nail Art Equipment
+1	Acids & Peels	Cuticle Removers
+1	Bath Pillows	Curlers
+1	Bath Pillows	Combinations
+1	Bath Pillows	Fillers
+1	Bath Pillows	Cotton Swabs
+1	Bath Pillows	Hair Color
+1	Bath Pillows	Alpha Beta
+1	Bath Pillows	Acids & Peels
+2	Bath Pillows	Oils & Serums
+1	Bath Pillows	Hair Loss Products
+1	Bath Pillows	Fluids
+1	Bath Pillows	Concealer
+1	Bath Pillows	Salicylic Acid
+1	Bath Pillows	Ponytail Holders
+1	Bath Pillows	Retinol
+2	Bath Pillows	Minerals & Salts
+1	Bath Pillows	Ridge Filler
+2	Bath Pillows	Fake Eyelashes & Adhesives
+5	Bath Pillows	Bath Pillows
+2	Bath Pillows	Creams
+1	Mascara	Combs
+1	Mascara	Microdermabrasion
+1	Mascara	Hairpieces
+1	Mascara	Mirrors
+1	Mascara	Scrubs & Body Treatments
+1	Mascara	Foundation Primers
+1	Mascara	Minerals & Salts
+1	Mascara	Retinol
+1	Mascara	Eye Shadow
+1	Mascara	Pillows
+1	Mascara	Sun
+1	Mascara	Blemish Tools
+1	Mascara	Lip Glosses
+1	Mascara	Fluids & Lotions
+1	Mascara	Moisturizers
+1	Mascara	Masks
+1	Mascara	Eyelash Tools
+1	Mascara	Bath Pillows
+1	Mascara	Hair Extensions
+1	Shampoo Plus Conditioner	Lipstick Primers
+1	Shampoo Plus Conditioner	Cleansers
+2	Shampoo Plus Conditioner	Makeup Mirrors
+1	Shampoo Plus Conditioner	Oils
+2	Shampoo Plus Conditioner	Shampoos
+2	Shampoo Plus Conditioner	Nail Whitening
+1	Shampoo Plus Conditioner	Nails
+1	Shampoo Plus Conditioner	Body
+1	Shampoo Plus Conditioner	Women's
+2	Shampoo Plus Conditioner	Styling Products
+2	Shampoo Plus Conditioner	Bath Brushes
+1	Shampoo Plus Conditioner	Wigs
+2	Shampoo Plus Conditioner	Creams, Gels & Lotions
+2	Shampoo Plus Conditioner	Body Butter
+1	Shampoo Plus Conditioner	Liner & Shadow Combinations
+1	Shampoo Plus Conditioner	Lactic Acid
+1	Shampoo Plus Conditioner	Scrubs
+2	Shampoo Plus Conditioner	Soaps
+2	Shampoo Plus Conditioner	Bath & Body
+2	Nail Art Equipment	Body Souffles & Mousse
+2	Nail Art Equipment	Scissors
+1	Nail Art Equipment	Glitter & Shimmer
+2	Nail Art Equipment	Body Sprays
+1	Nail Art Equipment	Applicator Bottles
+3	Nail Art Equipment	Scrubs & Body Treatments
+1	Nail Art Equipment	Self-Tanners & Bronzers
+1	Nail Art Equipment	Sharpeners
+1	Nail Art Equipment	Bronzing Powder
+1	Nail Art Equipment	Cotton Swabs
+1	Nail Art Equipment	Lipstick
+1	Nail Art Equipment	Highlights
+2	Nail Art Equipment	Essential Oils
+1	Nail Art Equipment	Ponytail Holders
+1	Nail Art Equipment	Glycolic Acid
+1	Nail Art Equipment	Diffusers
+1	Nail Art Equipment	Color Refreshers
+2	Nail Art Equipment	Toners & Astringents
+2	Nail Art Equipment	Minerals & Salts
+1	Toe Separators	Styling Tools
+1	Toe Separators	Alpha Beta
+1	Toe Separators	Bars
+1	Toe Separators	Paraffin Baths
+1	Toe Separators	Nail Files & Buffers
+1	Toe Separators	Hairpieces
+1	Toe Separators	Face Cleansing Brushes
+1	Toe Separators	Brushes & Applicators
+1	Toe Separators	Eye Shadow
+1	Toe Separators	Spa Slippers
+1	Toe Separators	Shower Mirrors
+1	Toe Separators	Hair Sticks
+1	Toe Separators	Dark Circle Treatments
+1	Toe Separators	Clippers & Trimmers
+1	Toe Separators	Cotton Balls
+1	Toe Separators	Skin Care
+1	Toe Separators	Microdermabrasion
+1	Toe Separators	Day Creams
+1	Toe Separators	Sun
+1	Cuticle Removers	Diffusers
+1	Cuticle Removers	Conditioners
+1	Cuticle Removers	Bath Brushes
+1	Cuticle Removers	Lips
+1	Cuticle Removers	Eyebrow Color
+1	Cuticle Removers	Puffs, Sponges & Wedges
+1	Cuticle Removers	Toe Separators
+1	Cuticle Removers	Ponytail Holders
+2	Cuticle Removers	Cuticle Creams & Oils
+1	Cuticle Removers	Soaps
+1	Cuticle Removers	Tote Bags
+1	Cuticle Removers	Braiders
+1	Cuticle Removers	Rollers & Pens
+1	Cuticle Removers	Glycolic Acid
+1	Cuticle Removers	Washes
+1	Cuticle Removers	Face
+1	Cuticle Removers	Fragrance
+1	Cuticle Removers	Body Butter
+1	Cuticle Removers	Salicylic Acid
+1	Treatments & Masks	Makeup
+1	Treatments & Masks	Cotton Swabs
+1	Treatments & Masks	Pore Cleansing Strips
+1	Treatments & Masks	Nail Polish
+1	Treatments & Masks	Tinted Moisturizers
+1	Treatments & Masks	Texturizers
+2	Treatments & Masks	Concealer & Base
+1	Treatments & Masks	Scissors
+1	Treatments & Masks	Combs
+1	Treatments & Masks	Color Correctors
+1	Treatments & Masks	Sports
+1	Treatments & Masks	Women's
+3	Treatments & Masks	Exfoliators & Scrubs
+1	Treatments & Masks	Brushes
+1	Treatments & Masks	Diffusers
+1	Treatments & Masks	Self Tanners
+1	Treatments & Masks	Mirrors
+1	Treatments & Masks	Glycolic Acid
+2	Treatments & Masks	Braid Maintenance
+2	Hot-Air Brushes	Brushes & Applicators
+1	Hot-Air Brushes	Curlers
+1	Hot-Air Brushes	Shampoos
+2	Hot-Air Brushes	Nail Dryers
+1	Hot-Air Brushes	Blemish Tools
+1	Hot-Air Brushes	Glycolic Acid
+1	Hot-Air Brushes	Curl Enhancers
+1	Hot-Air Brushes	Hand Soaps
+1	Hot-Air Brushes	Color Correctors
+1	Hot-Air Brushes	Home Permanent Kits
+1	Hot-Air Brushes	Cuticle Repair
+1	Hot-Air Brushes	Lotions
+1	Hot-Air Brushes	Hair Extensions
+5	Hot-Air Brushes	Hot-Air Brushes
+1	Hot-Air Brushes	Lips
+1	Hot-Air Brushes	Puffs, Sponges & Wedges
+1	Hot-Air Brushes	Fake Eyelashes & Adhesives
+1	Hot-Air Brushes	Sun
+2	Hot-Air Brushes	Lipstick Primers
+2	Hair Pins	Lip Plumpers
+2	Hair Pins	Nail Dryers
+1	Hair Pins	Sets
+1	Hair Pins	Glycolic Acid
+1	Hair Pins	Bronzers & Highlighters
+1	Hair Pins	Concealer & Base
+1	Hair Pins	Serums
+3	Hair Pins	Eyebrow Color
+2	Hair Pins	Pillows
+1	Hair Pins	Mousses & Foams
+2	Hair Pins	Eye Shadow
+1	Hair Pins	Tanning Oils
+2	Hair Pins	Nail Polish Remover
+2	Hair Pins	Tools & Accessories
+1	Hair Pins	Moisturizers
+2	Hair Pins	Brushes
+2	Hair Pins	Lips
+3	Hair Pins	Hair Regrowth Treatments
+1	Hair Pins	Gels
+3	Top & Base Coats	Bags & Cases
+1	Top & Base Coats	Exfoliators
+2	Top & Base Coats	Powder
+2	Top & Base Coats	Nail Polish
+1	Top & Base Coats	Oils
+1	Top & Base Coats	Color Refreshers
+1	Top & Base Coats	Eau de Parfum
+1	Top & Base Coats	Hairpieces
+2	Top & Base Coats	Hand Creams & Lotions
+1	Top & Base Coats	Shower Mirrors
+1	Top & Base Coats	Lip Plumpers
+2	Top & Base Coats	After Sun
+2	Top & Base Coats	Fake Eyelashes & Adhesives
+2	Top & Base Coats	Brushes & Applicators
+1	Top & Base Coats	Complexes
+1	Top & Base Coats	Bronzing Powder
+3	Top & Base Coats	Caps, Foils & Wraps
+1	Top & Base Coats	Hair Regrowth Treatments
+1	Top & Base Coats	Combinations
+1	Skin Protection	Mirrors
+2	Skin Protection	Nail Thickening Solution
+1	Skin Protection	Bath
+2	Skin Protection	Temporary Tattoos
+1	Skin Protection	Conditioners
+1	Skin Protection	Minerals & Salts
+1	Skin Protection	Oils & Serums
+1	Skin Protection	Self Tanners
+2	Skin Protection	Puffiness Treatments
+1	Skin Protection	Nail Polish
+2	Skin Protection	Night Creams
+2	Skin Protection	Body Washes
+1	Skin Protection	Scrubs
+1	Skin Protection	Blush
+1	Skin Protection	Exfoliators & Scrubs
+2	Skin Protection	Concealer & Base
+1	Skin Protection	Barrettes
+3	Skin Protection	Hair Regrowth Treatments
+1	Skin Protection	Curling Irons
+1	Day Creams	Serums
+2	Day Creams	Body Scrubs
+1	Day Creams	Diffusers
+2	Day Creams	Lip Stains
+1	Day Creams	False Nails
+2	Day Creams	Bath Mitts & Cloths
+1	Day Creams	Lips
+1	Day Creams	Cuticle Removers
+1	Day Creams	Foundation
+1	Day Creams	Polishes
+2	Day Creams	Cosmetic Bags
+1	Day Creams	Bronzers & Highlighters
+2	Day Creams	Nail Treatments
+1	Day Creams	Nail Repair
+3	Day Creams	Scrubs & Body Treatments
+1	Day Creams	Curl Enhancers
+1	Day Creams	Highlights
+2	Day Creams	Home Permanent Kits
+1	Day Creams	Eyeliner
+1	Body Paint	Fillers
+1	Body Paint	Sun
+1	Body Paint	Eyelash Tools
+2	Body Paint	Travel Cases & Holders
+3	Body Paint	Hair Color Removers
+1	Body Paint	Puffiness Treatments
+1	Body Paint	Wigs
+3	Body Paint	Hand Soaps
+1	Body Paint	Headbands
+2	Body Paint	Shampoo & Conditioner Sets
+2	Body Paint	Creams, Gels & Lotions
+2	Body Paint	Makeup Palettes
+2	Body Paint	Bath Brushes
+2	Body Paint	Cotton Balls
+3	Body Paint	Chemical Hair Dyes
+1	Body Paint	Hot-Air Brushes
+1	Body Paint	Creams
+1	Body Paint	Combinations
+1	Body Paint	Women's
+1	Hair Loss Products	Bath Pillows
+1	Hair Loss Products	Blush
+1	Hair Loss Products	Fragrance
+1	Hair Loss Products	Brushes
+1	Hair Loss Products	Lipstick Primers
+1	Hair Loss Products	Foundation Primers
+1	Hair Loss Products	Clips
+3	Hair Loss Products	Styling Products
+1	Hair Loss Products	Flattening Irons
+1	Hair Loss Products	Crimping Irons
+2	Hair Loss Products	Eyes
+1	Hair Loss Products	Alpha Beta
+1	Hair Loss Products	Salicylic Acid
+2	Hair Loss Products	Eyebrow Color
+1	Hair Loss Products	Pomades & Waxes
+3	Hair Loss Products	Treatments & Masks
+3	Hair Loss Products	Skin Protection
+1	Hair Loss Products	Barrettes
+3	Hair Loss Products	Cosmetic Bags
+1	Face	Braiders
+1	Face	Foundation
+1	Face	Lip Plumpers
+3	Face	Eyes
+1	Face	Polishes
+2	Face	Nail Strengthening
+2	Face	Train Cases
+1	Face	Caps, Foils & Wraps
+1	Face	Bubble Bath
+1	Face	Ridge Filler
+1	Face	Eyeliner
+2	Face	Hair Rollers
+2	Face	Hair Color
+1	Face	Tinted Moisturizers
+1	Face	Creams
+1	Face	Makeup
+1	Face	Wigs
+2	Face	Nail Art
+2	Face	Travel Cases & Holders
+2	Bath Brushes	Exfoliators & Scrubs
+1	Bath Brushes	Cologne
+2	Bath Brushes	Hair Regrowth Treatments
+1	Bath Brushes	Eye Masks
+1	Bath Brushes	Train Cases
+1	Bath Brushes	Concealers & Neutralizers
+1	Bath Brushes	Fluids
+1	Bath Brushes	Glycolic Acid
+2	Bath Brushes	Brushes, Combs & Needles
+2	Bath Brushes	Chemical Hair Dyes
+1	Bath Brushes	Foundation
+2	Bath Brushes	Caps, Foils & Wraps
+3	Bath Brushes	Bath Trays
+1	Bath Brushes	Crimping Irons
+1	Bath Brushes	Clippers & Trimmers
+1	Bath Brushes	Lactic Acid
+1	Bath Brushes	Nail Polish
+2	Bath Brushes	Liner & Shadow Combinations
+1	Bath Brushes	Growth Formula
+1	Hair Regrowth Treatments	Loofahs, Sponges & Poufs
+2	Hair Regrowth Treatments	Combinations
+1	Hair Regrowth Treatments	Spa Slippers
+1	Hair Regrowth Treatments	Polishes
+1	Hair Regrowth Treatments	Bronzing Powder
+1	Hair Regrowth Treatments	Nail Polish Remover
+1	Hair Regrowth Treatments	Combs
+1	Hair Regrowth Treatments	Ponytail Holders
+1	Hair Regrowth Treatments	Cuticle Removers
+1	Hair Regrowth Treatments	Nail Files & Buffers
+1	Hair Regrowth Treatments	Toners & Astringents
+2	Hair Regrowth Treatments	Makeup Mirrors
+1	Hair Regrowth Treatments	Serums
+2	Hair Regrowth Treatments	Braid Maintenance
+1	Hair Regrowth Treatments	Irons
+2	Hair Regrowth Treatments	Fragrance
+1	Hair Regrowth Treatments	Flattening Irons
+2	Hair Regrowth Treatments	Lipstick Primers
+3	Hair Regrowth Treatments	Hair Pins
+1	Crimping Irons	Color Refreshers
+1	Crimping Irons	Braid Maintenance
+1	Crimping Irons	Glitter & Shimmer
+1	Crimping Irons	Lactic Acid
+1	Crimping Irons	Hair Care
+3	Crimping Irons	Flattening Irons
+1	Crimping Irons	Sharpeners
+1	Crimping Irons	Barrettes
+1	Crimping Irons	Headbands
+1	Crimping Irons	Lipstick
+1	Crimping Irons	Exfoliators & Scrubs
+1	Crimping Irons	Nail Art Equipment
+1	Crimping Irons	Tools & Accessories
+1	Crimping Irons	Nail Polish
+1	Crimping Irons	Nail Thickening Solution
+1	Crimping Irons	Blush
+1	Crimping Irons	Lips
+1	Crimping Irons	Eau de Parfum
+2	Crimping Irons	Nail Dryers
+1	Eyebrow Color	Spa Slippers
+1	Eyebrow Color	Scissors
+2	Eyebrow Color	Body Scrubs
+1	Eyebrow Color	Fillers
+2	Eyebrow Color	Lipstick
+1	Eyebrow Color	Body Mud
+2	Eyebrow Color	Body Souffles & Mousse
+1	Eyebrow Color	Ridge Filler
+1	Eyebrow Color	Bath Brushes
+1	Eyebrow Color	Exfoliators & Scrubs
+2	Eyebrow Color	Dark Circle Treatments
+1	Eyebrow Color	Lotions
+1	Eyebrow Color	Concealer
+1	Eyebrow Color	Shower Caps
+2	Eyebrow Color	Face Cleansing Brushes
+2	Eyebrow Color	Hand Soaps
+1	Eyebrow Color	Hennas
+1	Eyebrow Color	Women's
+1	Eyebrow Color	Eau de Parfum
+1	Toners & Astringents	Braid Maintenance
+3	Toners & Astringents	Creams & Moisturizers
+1	Toners & Astringents	Crimping Irons
+1	Toners & Astringents	Cosmetic Bags
+2	Toners & Astringents	Hair & Scalp Treatments
+1	Toners & Astringents	Hair Extensions
+1	Toners & Astringents	Essential Oils
+1	Toners & Astringents	Nail Treatments
+1	Toners & Astringents	Highlights
+2	Toners & Astringents	Shampoo & Conditioner Sets
+3	Toners & Astringents	Cuticle Creams & Oils
+3	Toners & Astringents	Bath Mitts & Cloths
+1	Toners & Astringents	Fragrance
+1	Toners & Astringents	Eyebrow Color
+1	Toners & Astringents	Hennas
+1	Toners & Astringents	Combinations
+1	Toners & Astringents	Decorative Combs
+1	Toners & Astringents	Moisturizers
+1	Toners & Astringents	Hair Sprays
+1	Self-Tanners & Bronzers	Makeup Palettes
+2	Self-Tanners & Bronzers	Fluids & Lotions
+1	Self-Tanners & Bronzers	Sun
+1	Self-Tanners & Bronzers	Shower Caps
+2	Self-Tanners & Bronzers	Bags & Cases
+4	Self-Tanners & Bronzers	Concealers & Neutralizers
+1	Self-Tanners & Bronzers	Masks
+1	Self-Tanners & Bronzers	Braiders
+2	Self-Tanners & Bronzers	Shampoo & Conditioner Sets
+2	Self-Tanners & Bronzers	Creams, Gels & Lotions
+1	Self-Tanners & Bronzers	Exfoliators
+2	Self-Tanners & Bronzers	Clippers & Trimmers
+1	Self-Tanners & Bronzers	Eyelash Tools
+1	Self-Tanners & Bronzers	Bars
+1	Self-Tanners & Bronzers	Day Creams
+1	Self-Tanners & Bronzers	Foundation
+1	Self-Tanners & Bronzers	Foundation Primers
+1	Self-Tanners & Bronzers	Sets
+1	Self-Tanners & Bronzers	Activators
+1	Fluids & Lotions	Nail Thickening Solution
+1	Fluids & Lotions	Sun
+2	Fluids & Lotions	Rollers & Pens
+1	Fluids & Lotions	Concealer
+1	Fluids & Lotions	Crimping Irons
+2	Fluids & Lotions	Clippers & Trimmers
+1	Fluids & Lotions	Lipstick Primers
+2	Fluids & Lotions	Moisturizing Gloves
+3	Fluids & Lotions	Body Sprays
+3	Fluids & Lotions	Tools & Accessories
+1	Fluids & Lotions	Temporary Tattoos
+1	Fluids & Lotions	Color Correctors
+1	Fluids & Lotions	Hennas
+2	Fluids & Lotions	Self-Tanners & Bronzers
+3	Fluids & Lotions	Tanning Oils
+2	Fluids & Lotions	Skin Protection
+3	Fluids & Lotions	Fluids
+1	Fluids & Lotions	Foundation Primers
+3	Fluids & Lotions	Cloths & Towelettes
+1	Foundation Primers	Bath
+1	Foundation Primers	Blotting Paper
+1	Foundation Primers	Lip Liners
+1	Foundation Primers	Toners & Astringents
+1	Foundation Primers	Mirrors
+1	Foundation Primers	Face Cleansing Brushes
+1	Foundation Primers	Glycolic Acid
+1	Foundation Primers	Hair Sticks
+1	Foundation Primers	Nail Polish Remover
+1	Foundation Primers	Eau de Parfum
+1	Foundation Primers	Mousses & Foams
+1	Foundation Primers	Cuticle Removers
+5	Foundation Primers	Foundation Primers
+2	Foundation Primers	Brushes, Combs & Needles
+1	Foundation Primers	Claws
+1	Foundation Primers	Cloths & Towelettes
+1	Foundation Primers	After Sun
+2	Foundation Primers	Treatments & Masks
+1	Foundation Primers	Polishes
+1	Essential Oils	Eye Shadow
+1	Essential Oils	Sports
+1	Essential Oils	Brushes
+1	Essential Oils	Foot Rasps
+1	Essential Oils	Self-Tanners & Bronzers
+1	Essential Oils	After Sun
+2	Essential Oils	Hair & Scalp Treatments
+1	Essential Oils	Claws
+1	Essential Oils	Complexes
+1	Essential Oils	Nail Files & Buffers
+1	Essential Oils	Sharpeners
+1	Essential Oils	Curlers
+1	Essential Oils	Color Refreshers
+1	Essential Oils	Lip Glosses
+1	Essential Oils	Moisturizing Gloves
+1	Essential Oils	Hair Extensions
+2	Essential Oils	Soaps
+1	Essential Oils	Clippers & Trimmers
+1	Essential Oils	Concealer
+1	Growth Formula	Self Tanners
+1	Growth Formula	Fluids & Lotions
+1	Growth Formula	Fluids
+1	Growth Formula	Moisturizers
+2	Growth Formula	Dark Circle Treatments
+1	Growth Formula	Blush
+1	Growth Formula	Bath Pearls & Flakes
+1	Growth Formula	Nails
+1	Growth Formula	Alpha Beta
+1	Growth Formula	Cosmetic Bags
+1	Growth Formula	Fillers
+1	Growth Formula	Barrettes
+1	Growth Formula	Foundation
+1	Growth Formula	Exfoliators
+1	Growth Formula	Sun
+1	Growth Formula	Minerals & Salts
+1	Growth Formula	Tinted Moisturizers
+2	Growth Formula	Styling Products
+1	Growth Formula	Shower Mirrors
+1	Bronzers & Highlighters	Caps, Foils & Wraps
+1	Bronzers & Highlighters	Bath Brushes
+1	Bronzers & Highlighters	Bars
+1	Bronzers & Highlighters	Claws
+1	Bronzers & Highlighters	Crimping Irons
+1	Bronzers & Highlighters	Blotting Paper
+1	Bronzers & Highlighters	Lactic Acid
+1	Bronzers & Highlighters	Lip Liners
+1	Bronzers & Highlighters	Hair Pins
+1	Bronzers & Highlighters	Cuticle Removers
+1	Bronzers & Highlighters	Headbands
+1	Bronzers & Highlighters	Toiletry Bags
+1	Bronzers & Highlighters	Hairpieces
+2	Bronzers & Highlighters	Creams & Moisturizers
+1	Bronzers & Highlighters	Bath Pillows
+1	Bronzers & Highlighters	Color Refreshers
+2	Bronzers & Highlighters	Bath Pearls & Flakes
+3	Bronzers & Highlighters	Brushes & Applicators
+1	Bronzers & Highlighters	Cotton Swabs
+1	Cotton Balls	Glycolic Acid
+1	Cotton Balls	Serums
+1	Cotton Balls	Foundation
+1	Cotton Balls	Maternity
+1	Cotton Balls	Dark Circle Treatments
+1	Cotton Balls	Brushes & Applicators
+1	Cotton Balls	Creams
+1	Cotton Balls	Eyes
+1	Cotton Balls	Bronzers & Highlighters
+2	Cotton Balls	Hair Color Removers
+2	Cotton Balls	Cosmetic Bags
+1	Cotton Balls	Shampoo Plus Conditioner
+1	Cotton Balls	Crimping Irons
+1	Cotton Balls	Home Permanent Kits
+1	Cotton Balls	Sports
+1	Cotton Balls	Paraffin Baths
+1	Cotton Balls	Tanning Oils
+1	Cotton Balls	Combinations
+1	Cotton Balls	Bath Pillows
+1	Exfoliators	Makeup Palettes
+1	Exfoliators	Shampoos
+1	Exfoliators	Hair Regrowth Treatments
+1	Exfoliators	Hair Rollers
+1	Exfoliators	Hair Cutting Kits
+1	Exfoliators	Styling Accessories
+1	Exfoliators	Scrubs
+1	Exfoliators	Crimping Irons
+1	Exfoliators	Nail Repair
+1	Exfoliators	Hair Color
+1	Exfoliators	Creams & Moisturizers
+1	Exfoliators	Hot-Air Brushes
+1	Exfoliators	Brushes & Applicators
+1	Exfoliators	Night Creams
+1	Exfoliators	Pomades & Waxes
+1	Exfoliators	Sets & Kits
+1	Exfoliators	Eye Masks
+1	Exfoliators	Cosmetic Bags
+1	Exfoliators	Cleansers
+1	Creams & Moisturizers	Cologne
+1	Creams & Moisturizers	Exfoliators
+2	Creams & Moisturizers	Bath Brushes
+2	Creams & Moisturizers	Styling Products
+1	Creams & Moisturizers	Top & Base Coats
+1	Creams & Moisturizers	Serums
+1	Creams & Moisturizers	Lip Glosses
+1	Creams & Moisturizers	Face Cleansing Brushes
+1	Creams & Moisturizers	Blush
+2	Creams & Moisturizers	Shampoo Plus Conditioner
+1	Creams & Moisturizers	Lactic Acid
+1	Creams & Moisturizers	Curlers
+1	Creams & Moisturizers	Salicylic Acid
+2	Creams & Moisturizers	Skin Protection
+1	Creams & Moisturizers	Nail Strengthening
+1	Creams & Moisturizers	Women's
+1	Creams & Moisturizers	Foundation
+1	Creams & Moisturizers	Color Refreshers
+3	Creams & Moisturizers	Soaps
+1	Sets	Eye Masks
+1	Sets	Concealer & Base
+1	Sets	Exfoliators
+1	Sets	Blush
+1	Sets	Foot Rasps
+1	Sets	Body Scrubs
+1	Sets	Toiletry Bags
+1	Sets	Texturizers
+1	Sets	Retinol
+1	Sets	Diffusers
+1	Sets	Combs
+1	Sets	Bath Pearls & Flakes
+1	Sets	Curlers
+1	Sets	Eyes
+1	Sets	Sunscreens
+1	Sets	Hair Dryers
+1	Sets	Clippers & Trimmers
+1	Sets	Creams
+1	Sets	Nail Polish
+1	Soaps	Skin Care
+1	Soaps	Clippers & Trimmers
+3	Soaps	Hand Soaps
+2	Soaps	Hair Styling Serums
+1	Soaps	Caps, Foils & Wraps
+1	Soaps	Toiletry Bags
+1	Soaps	Exfoliators
+1	Soaps	Hair Cutting Kits
+1	Soaps	Combs
+2	Soaps	Moisturizing Gloves
+1	Soaps	Loofahs, Sponges & Poufs
+1	Soaps	Puffs, Sponges & Wedges
+1	Soaps	Hair Extensions
+2	Soaps	Fluids & Lotions
+1	Soaps	Pore Cleansing Strips
+5	Soaps	Soaps
+1	Soaps	Nail Polish
+1	Soaps	Fake Eyelashes & Adhesives
+1	Soaps	Lip Glosses
+1	Sets & Kits	Moisturizers
+3	Sets & Kits	Travel Cases & Holders
+1	Sets & Kits	Hennas
+1	Sets & Kits	Lip Stains
+3	Sets & Kits	Bath & Body
+2	Sets & Kits	Cotton Balls
+1	Sets & Kits	Bubble Bath
+1	Sets & Kits	Color Refreshers
+1	Sets & Kits	Irons
+1	Sets & Kits	Body
+1	Sets & Kits	Headbands
+2	Sets & Kits	Growth Formula
+1	Sets & Kits	Complexes
+2	Sets & Kits	Fake Eyelashes & Adhesives
+1	Sets & Kits	Wigs
+1	Sets & Kits	Curlers
+1	Sets & Kits	Sun
+1	Sets & Kits	Color Correctors
+1	Sets & Kits	Lotions
+2	Claws	Hair Sticks
+1	Claws	Color Correctors
+1	Claws	Hair Cutting Kits
+1	Claws	Lipstick Primers
+1	Claws	Eye Masks
+2	Claws	Scissors
+1	Claws	Blush
+1	Claws	Hennas
+1	Claws	Cuticle Creams & Oils
+2	Claws	Nails
+1	Claws	Bath & Body
+1	Claws	Body Scrubs
+1	Claws	Day Creams
+1	Claws	Glycolic Acid
+1	Claws	Brushes & Applicators
+1	Claws	Maternity
+1	Claws	Creams & Moisturizers
+1	Claws	Pore Cleansing Strips
+1	Claws	Soaps
+1	Styling Accessories	Cuticle Repair
+1	Styling Accessories	Clips
+1	Styling Accessories	Puffiness Treatments
+1	Styling Accessories	Skin Protection
+2	Styling Accessories	Bath Pillows
+1	Styling Accessories	Curl Enhancers
+4	Styling Accessories	Styling Products
+2	Styling Accessories	Color Refreshers
+1	Styling Accessories	Texturizers
+1	Styling Accessories	Mascara
+1	Styling Accessories	Fillers
+5	Styling Accessories	Styling Accessories
+2	Styling Accessories	Caps, Foils & Wraps
+2	Styling Accessories	Body Sprays
+1	Styling Accessories	Hennas
+1	Styling Accessories	Moisturizers
+1	Styling Accessories	Growth Formula
+2	Styling Accessories	Nail Dryers
+1	Styling Accessories	Self Tanners
+1	Glycolic Acid	Activators
+1	Glycolic Acid	Bath Pearls & Flakes
+1	Glycolic Acid	Bath Brushes
+1	Glycolic Acid	Eau de Toilette
+1	Glycolic Acid	Wigs
+1	Glycolic Acid	Ridge Filler
+1	Glycolic Acid	Blush
+1	Glycolic Acid	Lips
+1	Glycolic Acid	Treatments & Masks
+1	Glycolic Acid	Hair Color
+1	Glycolic Acid	Foundation Primers
+1	Glycolic Acid	Bath
+1	Glycolic Acid	Retinol
+1	Glycolic Acid	Moisturizing Gloves
+1	Glycolic Acid	Bath Bombs
+2	Glycolic Acid	Curl Enhancers
+1	Glycolic Acid	Hair Sprays
+1	Glycolic Acid	Body Scrubs
+1	Glycolic Acid	Hair Sticks
+1	Refillable Containers	Body Mud
+1	Refillable Containers	Color Refreshers
+1	Refillable Containers	Hair Drying Towels
+1	Refillable Containers	Maternity
+1	Refillable Containers	Polishes
+1	Refillable Containers	Shampoo Plus Conditioner
+2	Refillable Containers	Creams
+1	Refillable Containers	Bags & Cases
+1	Refillable Containers	Nail Treatments
+1	Refillable Containers	Paraffin Baths
+1	Refillable Containers	Hair Color
+1	Refillable Containers	Fillers
+1	Refillable Containers	Essential Oils
+1	Refillable Containers	Masks
+1	Refillable Containers	Bath
+1	Refillable Containers	Train Cases
+1	Refillable Containers	Fluids & Lotions
+1	Refillable Containers	Temporary Tattoos
+1	Refillable Containers	Exfoliators & Scrubs
+1	Blemish Tools	Sports
+1	Blemish Tools	Toiletry Bags
+1	Blemish Tools	Scrubs
+1	Blemish Tools	Travel Cases & Holders
+1	Blemish Tools	Concealers & Neutralizers
+1	Blemish Tools	Bags & Cases
+1	Blemish Tools	Sunscreens
+1	Blemish Tools	Hair Color Removers
+3	Blemish Tools	Eyelash Tools
+1	Blemish Tools	Irons
+1	Blemish Tools	Cleansers
+1	Blemish Tools	Washes
+1	Blemish Tools	Lip Plumpers
+1	Blemish Tools	Skin Care
+1	Blemish Tools	Bath & Body
+1	Blemish Tools	Blotting Paper
+1	Blemish Tools	Body Sprays
+1	Blemish Tools	Shower Caps
+1	Blemish Tools	Body Souffles & Mousse
+1	Combinations	Shampoo & Conditioner Sets
+1	Combinations	Body Washes
+1	Combinations	Temporary Tattoos
+1	Combinations	Mascara
+1	Combinations	Nail Strengthening
+1	Combinations	Claws
+1	Combinations	Lactic Acid
+2	Combinations	Hair Color
+2	Combinations	Hair & Scalp Treatments
+1	Combinations	Salicylic Acid
+1	Combinations	Tote Bags
+1	Combinations	Toners & Astringents
+2	Combinations	Color Correctors
+2	Combinations	Makeup Sets
+1	Combinations	Sunscreens
+1	Combinations	Lips
+1	Combinations	Bath
+1	Combinations	Blush
+1	Combinations	Growth Formula
+1	Bars	Color Correctors
+1	Bars	Color Refreshers
+1	Bars	Lotions
+1	Bars	Rollers & Pens
+1	Bars	Braiders
+1	Bars	Toe Separators
+1	Bars	Essential Oils
+1	Bars	Concealers & Neutralizers
+1	Bars	Bronzers & Highlighters
+1	Bars	Cotton Swabs
+1	Bars	Oils & Serums
+2	Bars	Body Paint
+1	Bars	Tinted Moisturizers
+1	Bars	Nail Polish
+1	Bars	Scrubs & Body Treatments
+1	Bars	Hair Extensions
+1	Bars	Nail Art Equipment
+1	Bars	Makeup
+1	Bars	Bronzing Powder
+2	Bath & Body	Makeup Mirrors
+1	Bath & Body	Moisturizing Gloves
+1	Bath & Body	Microdermabrasion
+1	Bath & Body	Nail Whitening
+2	Bath & Body	Spa Slippers
+1	Bath & Body	Nail Brushes
+1	Bath & Body	Cleansers
+2	Bath & Body	Sports
+1	Bath & Body	Claws
+3	Bath & Body	Travel Cases & Holders
+3	Bath & Body	Bubble Bath
+2	Bath & Body	Body Sprays
+1	Bath & Body	Makeup Palettes
+2	Bath & Body	Brush Bags
+1	Bath & Body	Foundation Primers
+1	Bath & Body	Alpha Beta
+1	Bath & Body	Gels
+2	Bath & Body	Hair Color Removers
+1	Bath & Body	Lactic Acid
+2	Liner & Shadow Combinations	Combinations
+1	Liner & Shadow Combinations	Body Washes
+1	Liner & Shadow Combinations	Blotting Paper
+2	Liner & Shadow Combinations	Nail Tools
+1	Liner & Shadow Combinations	Lipstick Primers
+1	Liner & Shadow Combinations	Exfoliators
+1	Liner & Shadow Combinations	Hair Dryers
+3	Liner & Shadow Combinations	Concealer & Base
+3	Liner & Shadow Combinations	Bath & Body
+1	Liner & Shadow Combinations	Flattening Irons
+1	Liner & Shadow Combinations	Cuticle Removers
+2	Liner & Shadow Combinations	Bath Bombs
+2	Liner & Shadow Combinations	Skin Protection
+1	Liner & Shadow Combinations	Eyebrow Color
+2	Liner & Shadow Combinations	Night Creams
+1	Liner & Shadow Combinations	Lotions
+1	Liner & Shadow Combinations	Soaps
+3	Liner & Shadow Combinations	Top & Base Coats
+1	Liner & Shadow Combinations	Nail Polish
+1	Oils	Texturizers
+1	Oils	Shampoos
+1	Oils	Hot-Air Brushes
+1	Oils	Applicator Bottles
+1	Oils	Gels
+1	Oils	Sun
+1	Oils	Bath Trays
+1	Oils	Combinations
+1	Oils	Refillable Containers
+1	Oils	Nail Tools
+1	Oils	Microdermabrasion
+1	Oils	Brush Bags
+1	Oils	Pillows
+1	Oils	Caps, Foils & Wraps
+1	Oils	Bronzing Powder
+1	Oils	Tools & Accessories
+1	Oils	Makeup Sets
+2	Oils	Creams, Gels & Lotions
+1	Oils	Foot Rasps
+2	Exfoliators & Scrubs	Fluids & Lotions
+1	Exfoliators & Scrubs	Eye Shadow
+1	Exfoliators & Scrubs	Toe Separators
+1	Exfoliators & Scrubs	Body Butter
+1	Exfoliators & Scrubs	Eyes
+1	Exfoliators & Scrubs	Wigs
+2	Exfoliators & Scrubs	Bronzers & Highlighters
+1	Exfoliators & Scrubs	Blotting Paper
+2	Exfoliators & Scrubs	Spa Slippers
+2	Exfoliators & Scrubs	Cuticle Creams & Oils
+1	Exfoliators & Scrubs	Bars
+1	Exfoliators & Scrubs	Foundation Primers
+2	Exfoliators & Scrubs	Body Souffles & Mousse
+3	Exfoliators & Scrubs	Rollers & Pens
+1	Exfoliators & Scrubs	Braiders
+1	Exfoliators & Scrubs	Lip Plumpers
+2	Exfoliators & Scrubs	Nail Art Equipment
+1	Exfoliators & Scrubs	Headbands
+1	Exfoliators & Scrubs	Lip Liners
+1	Sun	Soaps
+1	Sun	Body
+1	Sun	Tools & Accessories
+1	Sun	Nail Whitening
+1	Sun	Body Washes
+1	Sun	Glitter & Shimmer
+1	Sun	Pore Cleansing Strips
+1	Sun	Sets
+1	Sun	Retinol
+4	Sun	After Sun
+1	Sun	Face Cleansing Brushes
+1	Sun	Moisturizers
+1	Sun	Hair Pins
+1	Sun	Barrettes
+1	Sun	Tinted Moisturizers
+1	Sun	Shower Mirrors
+1	Sun	Masks
+1	Sun	Bronzing Powder
+1	Sun	Conditioners
+1	Mousses & Foams	Bronzing Powder
+1	Mousses & Foams	Braiders
+1	Mousses & Foams	Women's
+1	Mousses & Foams	Body Mud
+1	Mousses & Foams	Makeup
+1	Mousses & Foams	Glycolic Acid
+1	Mousses & Foams	Body Scrubs
+1	Mousses & Foams	Mascara
+3	Mousses & Foams	Cloths & Towelettes
+1	Mousses & Foams	Maternity
+1	Mousses & Foams	Eau de Toilette
+1	Mousses & Foams	Scissors
+1	Mousses & Foams	Nail Strengthening
+1	Mousses & Foams	Barrettes
+1	Mousses & Foams	Cotton Balls
+1	Mousses & Foams	Skin Care
+1	Mousses & Foams	Eye Shadow
+1	Mousses & Foams	Body Paint
+2	Mousses & Foams	Bath
+1	Eye Shadow	Sets & Kits
+2	Eye Shadow	Hair Pins
+1	Eye Shadow	Fluids & Lotions
+2	Eye Shadow	Body
+1	Eye Shadow	Decorative Combs
+1	Eye Shadow	Cosmetic Bags
+1	Eye Shadow	Bath Bombs
+2	Eye Shadow	Bath & Body
+2	Eye Shadow	Body Scrubs
+1	Eye Shadow	Eyeliner
+1	Eye Shadow	Lip Glosses
+1	Eye Shadow	Concealers & Neutralizers
+2	Eye Shadow	Shower Mirrors
+2	Eye Shadow	Bubble Bath
+1	Eye Shadow	Microdermabrasion
+2	Eye Shadow	Bags & Cases
+1	Eye Shadow	Creams
+1	Eye Shadow	Nail Dryers
+1	Eye Shadow	Brushes
+1	Body	Rollers & Pens
+2	Body	Hand Soaps
+1	Body	Hennas
+1	Body	Serums
+1	Body	Activators
+1	Body	Shower Caps
+5	Body	Body
+1	Body	Creams & Moisturizers
+1	Body	Color Refreshers
+1	Body	Scrubs
+1	Body	Bars
+1	Body	Refillable Containers
+1	Body	Nail Dryers
+1	Body	False Nails
+1	Body	Creams, Gels & Lotions
+3	Body	Hair Loss Products
+4	Body	Body Washes
+1	Body	Brushes, Combs & Needles
+1	Body	Paraffin Baths
+1	Sharpeners	Clippers & Trimmers
+1	Sharpeners	Tinted Moisturizers
+1	Sharpeners	Hand Creams & Lotions
+1	Sharpeners	Nail Thickening Solution
+1	Sharpeners	Nail Art Equipment
+1	Sharpeners	Foundation Primers
+1	Sharpeners	Fragrance
+1	Sharpeners	Hot-Air Brushes
+1	Sharpeners	Nail Polish
+1	Sharpeners	Moisturizers
+2	Sharpeners	Scissors
+1	Sharpeners	Makeup Palettes
+1	Sharpeners	Braid Maintenance
+1	Sharpeners	Cuticle Creams & Oils
+1	Sharpeners	Hair Cutting Kits
+1	Sharpeners	Headbands
+1	Sharpeners	Microdermabrasion
+1	Sharpeners	Hair Rollers
+1	Sharpeners	Braiders
+1	Lips	Home Permanent Kits
+1	Lips	Washes
+1	Lips	Minerals & Salts
+2	Lips	Body Scrubs
+1	Lips	Clips
+1	Lips	Sports
+2	Lips	Eye Shadow
+1	Lips	Concealer & Base
+2	Lips	Lip Glosses
+1	Lips	Oils & Serums
+2	Lips	Body Paint
+3	Lips	Lip Plumpers
+1	Lips	Tools & Accessories
+1	Lips	Crimping Irons
+1	Lips	Combinations
+1	Lips	Body Mud
+1	Lips	Sharpeners
+1	Lips	Braid Maintenance
+1	Lips	Cuticle Removers
+1	Hairpieces	Hair Regrowth Treatments
+1	Hairpieces	Flattening Irons
+1	Hairpieces	Mascara
+1	Hairpieces	Oils
+1	Hairpieces	Diffusers
+1	Hairpieces	Blemish Tools
+1	Hairpieces	Exfoliators
+1	Hairpieces	Color Correctors
+1	Hairpieces	Nail Thickening Solution
+1	Hairpieces	Hair Styling Serums
+1	Hairpieces	Toe Separators
+1	Hairpieces	Essential Oils
+1	Hairpieces	Bath Brushes
+1	Hairpieces	Body Sprays
+1	Hairpieces	Irons
+1	Hairpieces	Hair Rollers
+1	Hairpieces	Salicylic Acid
+1	Hairpieces	Microdermabrasion
+1	Hairpieces	Mirrors
+2	Fake Eyelashes & Adhesives	Hair Sprays
+1	Fake Eyelashes & Adhesives	Hairpieces
+5	Fake Eyelashes & Adhesives	Fake Eyelashes & Adhesives
+2	Fake Eyelashes & Adhesives	Concealer & Base
+1	Fake Eyelashes & Adhesives	Hot-Air Brushes
+2	Fake Eyelashes & Adhesives	Bath & Body
+1	Fake Eyelashes & Adhesives	Tote Bags
+2	Fake Eyelashes & Adhesives	Nail Tools
+1	Fake Eyelashes & Adhesives	Combinations
+2	Fake Eyelashes & Adhesives	Moisturizing Gloves
+1	Fake Eyelashes & Adhesives	Bars
+2	Fake Eyelashes & Adhesives	Hair Styling Serums
+2	Fake Eyelashes & Adhesives	Oils & Serums
+1	Fake Eyelashes & Adhesives	Paraffin Baths
+1	Fake Eyelashes & Adhesives	Clippers & Trimmers
+2	Fake Eyelashes & Adhesives	Makeup Mirrors
+1	Fake Eyelashes & Adhesives	Glycolic Acid
+1	Fake Eyelashes & Adhesives	Hennas
+1	Fake Eyelashes & Adhesives	Irons
+2	Styling Products	Day Creams
+1	Styling Products	Bubble Bath
+1	Styling Products	Nail Brushes
+1	Styling Products	Color Refreshers
+1	Styling Products	Temporary Tattoos
+3	Styling Products	Shampoo & Conditioner Sets
+2	Styling Products	Eyelash Tools
+1	Styling Products	Bath Bombs
+1	Styling Products	Cleansers
+2	Styling Products	Sets & Kits
+1	Styling Products	Curl Enhancers
+1	Styling Products	Brushes
+1	Styling Products	Sun
+2	Styling Products	Brushes & Applicators
+1	Styling Products	Shower Mirrors
+1	Styling Products	Puffs, Sponges & Wedges
+2	Styling Products	Toiletry Bags
+1	Styling Products	Nail Strengthening
+1	Styling Products	Nail Thickening Solution
+3	Scrubs & Body Treatments	Hair Sprays
+3	Scrubs & Body Treatments	Caps, Foils & Wraps
+2	Scrubs & Body Treatments	Clippers & Trimmers
+2	Scrubs & Body Treatments	Foundation
+2	Scrubs & Body Treatments	Rollers & Pens
+2	Scrubs & Body Treatments	Bath Trays
+1	Scrubs & Body Treatments	Mascara
+2	Scrubs & Body Treatments	Shower Mirrors
+3	Scrubs & Body Treatments	Body Mud
+2	Scrubs & Body Treatments	Hair Styling Serums
+2	Scrubs & Body Treatments	Nail Repair
+1	Scrubs & Body Treatments	Fragrance
+2	Scrubs & Body Treatments	Home Permanent Kits
+1	Scrubs & Body Treatments	Growth Formula
+1	Scrubs & Body Treatments	Salicylic Acid
+1	Scrubs & Body Treatments	Eau de Parfum
+2	Scrubs & Body Treatments	Fluids
+3	Scrubs & Body Treatments	Toners & Astringents
+4	Scrubs & Body Treatments	Hair & Scalp Treatments
+1	Cosmetic Bags	Foot Rasps
+2	Cosmetic Bags	Hair Sticks
+2	Cosmetic Bags	Wigs
+2	Cosmetic Bags	Nail Whitening
+2	Cosmetic Bags	Nail Art
+1	Cosmetic Bags	Bath & Body
+2	Cosmetic Bags	Pore Cleansing Strips
+1	Cosmetic Bags	Women's
+2	Cosmetic Bags	Scissors
+1	Cosmetic Bags	Loofahs, Sponges & Poufs
+1	Cosmetic Bags	Self Tanners
+1	Cosmetic Bags	Concealers & Neutralizers
+2	Cosmetic Bags	Gels
+1	Cosmetic Bags	Sharpeners
+1	Cosmetic Bags	Exfoliators
+1	Cosmetic Bags	Toe Separators
+3	Cosmetic Bags	Hair Pins
+1	Cosmetic Bags	Ridge Filler
+2	Cosmetic Bags	Refillable Containers
